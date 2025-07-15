@@ -11,12 +11,12 @@
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "2, 2",
+                        "item_margin": "3, 3",
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 46,
-                        "item_width": 46,
+                        "item_height": 40,
+                        "item_width": 40,
                         "rows": [
                             [
                                 "DiamondStar",
