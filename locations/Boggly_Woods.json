@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Boggly Woods",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Shadow Sirens Room - Necklace"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 486, "y": 366}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Shadow Sirens Room - Honey Syrup"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 993, "y": 654}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Shadow Sirens Room - Sleepy Sheep"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 336, "y": 261}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Tree View - Coin"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 1740, "y": 1089}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Tree View - Inn Coupon"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 1623, "y": 1041}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Plane Panel Room - P-Down D-Up P"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 2151, "y": 1305}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods/Boggly Woods Plane Panel Room - Quake Hammer"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 2514, "y": 1506}]
+            },
+            {
+                "sections": [{"name": "Boggly Woods Plane Panel Room - Shine Sprite","ref": "Magical Map/Boggly Woods/Boggly Woods Plane Panel Room - Shine Sprite"},
+                {"name": "Boggly Woods Plane Panel Room - Star Piece","ref": "Magical Map/Boggly Woods/Boggly Woods Plane Panel Room - Star Piece"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 1929, "y": 1188}]
+            }
+        ]
+    },
+    {
+        "name": "Boggly Woods Flurrie's House",
+        "children": [
+            {
+            "sections": [{"name": "Boggly Woods Flurrie's House - Flurrie", "ref": "Magical Map/Boggly Woods Flurrie's House/Boggly Woods Flurrie's House - Flurrie"},
+            {"name": "Boggly Woods Flurrie's House Backroom - Star Piece", "ref": "Magical Map/Boggly Woods Flurrie's House/Boggly Woods Flurrie's House Backroom - Star Piece"},
+            {"name": "Boggly Woods Flurrie's House Backroom - Super Appeal P","ref": "Magical Map/Boggly Woods Flurrie's House/Boggly Woods Flurrie's House Backroom - Super Appeal P"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 3363, "y": 1749}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods Flurrie's House/Boggly Woods Outside Flurrie's House - Star Piece 1"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 2721, "y": 1680}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods Flurrie's House/Boggly Woods Outside Flurrie's House - Star Piece 2"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 2868, "y": 1740}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Boggly Woods Flurrie's House/Boggly Woods Outside Flurrie's House - Volt Shroom"}],
+                "map_locations": [{"map": "Boggly Woods", "x": 3216, "y": 1941}]
+            }
+        ]
+    }
+]

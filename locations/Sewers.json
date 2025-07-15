@@ -1,0 +1,275 @@
+[
+    {
+        "name": "Rogueport Sewers East",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers East Entrance - Star Piece"}],
+                "map_locations": [{"map": "Sewers", "x": 1760, "y": 715}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers East Entrance - Defend Plus P"}],
+                "map_locations": [{"map": "Sewers", "x": 1925, "y": 455}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers East Enemy Hall - Fire Flower"}],
+                "map_locations": [{"map": "Sewers", "x": 2151, "y": 873}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers East Enemy Hall - Mushroom"}],
+                "map_locations": [{"map": "Sewers", "x": 2087, "y": 930}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Spike Room - Spike Shield"}],
+                "map_locations": [{"map": "Sewers", "x": 2108, "y": 888}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Spania Room - Defend Plus"}],
+                "map_locations": [{"map": "Sewers", "x": 2440, "y": 570}]
+            },
+            {
+                "sections": [{"name":"Rogueport Sewers Spania Room - Shine Sprite 1", "ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Spania Room - Shine Sprite 1"},
+                             {"name":"Rogueport Sewers Spania Room - Shine Sprite 2", "ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Spania Room - Shine Sprite 2"},
+                             {"name":"Rogueport Sewers Spania Room - Shine Sprite 3", "ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Spania Room - Shine Sprite 3"}],
+                "map_locations": [{"map": "Sewers", "x": 2413, "y": 680}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers East Pipe Room - Shine Sprite"}],
+                "map_locations": [{"map": "Sewers", "x": 1833, "y": 1047}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Black Key Room - Black Key"}],
+                "map_locations": [{"map": "Sewers", "x": 2332, "y": 1308}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Black Key Room - Happy Heart P"}],
+                "map_locations": [{"map": "Sewers", "x": 2463, "y": 1330}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Black Key Room - Pretty Lucky"}],
+                "map_locations": [{"map": "Sewers", "x": 2323, "y": 1499}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Black Key Room - Star Piece"}],
+                "map_locations": [{"map": "Sewers", "x": 2154, "y": 1496}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Boggly Woods Pipe - Damage Dodge"}],
+                "map_locations": [{"map": "Sewers", "x": 1968, "y": 1391}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Boggly Woods Pipe - Star Piece"}],
+                "map_locations": [{"map": "Sewers", "x": 2297, "y": 1197}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Black Chest Room - Plane Curse"}],
+                "map_locations": [{"map": "Sewers", "x": 2411, "y": 1054}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Black Chest Room - Star Piece"}],
+                "map_locations": [{"map": "Sewers", "x": 2442, "y": 1098}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Petal Meadows Pipe - Shine Sprite"}],
+                "map_locations": [{"map": "Sewers", "x": 2361, "y": 250}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Star Piece in House"}],
+                "map_locations": [{"map": "Sewers", "x": 2163, "y": 108}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Thousand Year Door - Shine Sprite"}],
+                "map_locations": [{"map": "Sewers", "x": 1585, "y": 1725}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Thousand Year Door - Star Piece"}],
+                "map_locations": [{"map": "Sewers", "x": 1942, "y": 1848}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers East/Rogueport Sewers Pit Entrance - Star Piece"}],
+                "map_locations": [{"map": "Sewers", "x": 1612, "y": 1902}]
+            }
+        ]
+    },
+    {
+        "name": "Rogueport Sewers West & Town",
+        "children": [
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Entrance - Flower Saver P"}],
+                "map_locations": [{"map": "Sewers", "x": 737, "y": 1551}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Enemy Hall - Gradual Syrup"}],
+                "map_locations": [{"map": "Sewers", "x": 1302, "y": 1527}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Enemy Hall - Slow Shroom"}],
+                "map_locations": [{"map": "Sewers", "x": 1383, "y": 1470}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Entrance - Star Piece 1"}],
+                "map_locations": [{"map": "Sewers", "x": 906, "y": 1299}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Entrance - Shine Sprite"}],
+                "map_locations": [{"map": "Sewers", "x": 819, "y": 1395}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Entrance - Star Piece 2"}],
+                "map_locations": [{"map": "Sewers", "x": 876, "y": 1080}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers West Pipe Room - FP Plus"}],
+                "map_locations": [{"map": "Sewers", "x": 1512, "y": 1305}]
+            },
+            {
+                "sections": [{"name":"Rogueport Sewers Town - Shine Sprite", "ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers Town - Shine Sprite"},
+                             {"name":"Rogueport Sewers Town - Star Piece 1", "ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers Town - Star Piece 1"}],
+                "map_locations": [{"map": "Sewers", "x": 1449, "y": 777}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers Town - Soft Stomp"}],
+                "map_locations": [{"map": "Sewers", "x": 1317, "y": 1212}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers Town - Star Piece 2"}],
+                "map_locations": [{"map": "Sewers", "x": 1062, "y": 1086}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers Town - Star Piece 3"}],
+                "map_locations": [{"map": "Sewers", "x": 1173, "y": 933}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Sewers West & Town/Rogueport Sewers Town - Star Piece 4"}],
+                "map_locations": [{"map": "Sewers", "x": 1554, "y": 957}]
+            },
+            {
+                "name": "Rogueport Sewers Town (Deepdown Depot)",
+                "sections": [
+                    {
+                        "name": "Slow Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Sewers Town (Deepdown Depot)/Slow Shroom Purchase"
+                    },
+                    {
+                        "name": "Gradual Syrup Purchase",
+                        "ref": "Magical Map/Rogueport Sewers Town (Deepdown Depot)/Gradual Syrup Purchase"
+                    },
+                    {
+                        "name": "Ultra Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Sewers Town (Deepdown Depot)/Ultra Shroom Purchase"
+                    },
+                    {
+                        "name": "Jammin' Jelly Purchase",
+                        "ref": "Magical Map/Rogueport Sewers Town (Deepdown Depot)/Jammin' Jelly Purchase"
+                    },
+                    {
+                        "name": "Gold Bar Purchase",
+                        "ref": "Magical Map/Rogueport Sewers Town (Deepdown Depot)/Gold Bar Purchase"
+                    },
+                    {
+                        "name": "Gold Bar x3 Purchase",
+                        "ref": "Magical Map/Rogueport Sewers Town (Deepdown Depot)/Gold Bar x3 Purchase"
+                    }
+                ],
+                "map_locations": [{"map": "Sewers", "x": 1275, "y": 840}]
+            },
+            {
+                "name": "Rogueport Sewers Town (Dazzle)",
+                "sections": [
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Attack FX Y",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Attack FX Y"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Chill Out",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Chill Out"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Pretty Lucky",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Pretty Lucky"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Happy Flower",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Happy Flower"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Happy Heart",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Happy Heart"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Happy Heart P",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Happy Heart P"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Item Hog",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Item Hog"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Heart Finder",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Heart Finder"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Flower Finder",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Flower Finder"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Peekaboo",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Peekaboo"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Quick Change",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Quick Change"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Flower Saver",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Flower Saver"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Flower Saver P",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Flower Saver P"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Power Plus",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Power Plus"
+                    },
+                    {
+                        "name": "Rogueport Sewers Town (Dazzle) - Power Plus P",
+                        "ref": "Magical Map/Rogueport Sewers Town (Dazzle)/Rogueport Sewers Town (Dazzle) - Power Plus P"
+                    }
+                ],
+                "map_locations": [{"map": "Sewers", "x": 1494, "y": 832}]
+            }
+        ]
+    },
+    {
+        "name": "Pit of 100 Trials",
+        "children": [
+            {
+                "sections": [{"name": "Pit of 100 Trials Floor 10 - Sleepy Stomp", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 10 - Sleepy Stomp"},
+                             {"name": "Pit of 100 Trials Floor 20 - Fire Drive", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 20 - Fire Drive"},
+                             {"name": "Pit of 100 Trials Floor 30 - Zap Tap", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 30 - Zap Tap"},
+                             {"name": "Pit of 100 Trials Floor 40 - Pity Flower", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 40 - Pity Flower"},
+                             {"name": "Pit of 100 Trials Floor 50 - Strange Sack", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 50 - Strange Sack"},
+                             {"name": "Pit of 100 Trials Floor 60 - Double Dip", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 60 - Double Dip"},
+                             {"name": "Pit of 100 Trials Floor 70 - Double Dip P", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 70 - Double Dip P"},
+                             {"name": "Pit of 100 Trials Floor 80 - Bump Attack", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 80 - Bump Attack"},
+                             {"name": "Pit of 100 Trials Floor 90 - Lucky Day", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 90 - Lucky Day"},
+                             {"name": "Pit of 100 Trials Floor 100 - Return Postage", "ref": "Magical Map/Pit of 100 Trials/Pit of 100 Trials Floor 100 - Return Postage"}],
+                "map_locations": [{"map": "Sewers", "x": 1533, "y": 1989}]
+            }
+        ]
+    },
+    {
+        "name": "Pit of 100 Trials Charlieton",
+        "children": [
+            {
+                "sections": [{"name": "Pit of 100 Trials Charlieton - Fire Flower", "ref": "Magical Map/Pit of 100 Trials Charlieton/Pit of 100 Trials Charlieton - Fire Flower"},
+                             {"name": "Pit of 100 Trials Charlieton - Honey Syrup", "ref": "Magical Map/Pit of 100 Trials Charlieton/Pit of 100 Trials Charlieton - Honey Syrup"},
+                             {"name": "Pit of 100 Trials Charlieton - Maple Syrup", "ref": "Magical Map/Pit of 100 Trials Charlieton/Pit of 100 Trials Charlieton - Maple Syrup"},
+                             {"name": "Pit of 100 Trials Charlieton - Mushroom", "ref": "Magical Map/Pit of 100 Trials Charlieton/Pit of 100 Trials Charlieton - Mushroom"},
+                             {"name": "Pit of 100 Trials Charlieton - Super Shroom", "ref": "Magical Map/Pit of 100 Trials Charlieton/Pit of 100 Trials Charlieton - Super Shroom"},
+                             {"name": "Pit of 100 Trials Charlieton - Thunder Rage", "ref": "Magical Map/Pit of 100 Trials Charlieton/Pit of 100 Trials Charlieton - Thunder Rage"}],
+                "map_locations": [{"map": "Sewers", "x": 1533, "y": 1854}]
+            }
+        ]
+    }
+]

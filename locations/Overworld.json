@@ -4,9 +4,7 @@
                 "chest_unopened_img": "/images/items/YBlock.png",
                 "chest_opened_img": "/images/items/YBlockOpen.png",
         "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "access_rules": [""],
         "children": [
             {
                 "name": "Rogueport Center",
@@ -79,8 +77,9 @@
                     },
                     {
                         "map": "OG Map",
+                        "size": 10,
                         "x": 298,
-                        "y": 276
+                        "y": 274
                     }
                 ]
             },
@@ -238,10 +237,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 8,
                         "x":  291,
-                        "y":  250,
-                        "size": 9
+                        "y":  250
                     }
                 ]
             },
@@ -299,10 +298,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 8,
                         "x":  291,
-                        "y":  265,
-                        "size": 9
+                        "y":  262
                     }
                 ]
             },
@@ -405,10 +404,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 8,
                         "x":  286,
-                        "y":  279,
-                        "size": 9
+                        "y":  276
                     }
                 ]
             },
@@ -467,10 +466,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  297,
-                        "y":  302,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  282,
+                        "y":  312
                     }
                 ]
             },
@@ -479,7 +478,7 @@
                 "chest_unopened_img": "/images/items/BigChest.png",
                 "chest_opened_img": "/images/items/BigChestOpen.png",
                 "overlay_background": "#000000",
-                "visibility_rules": ["Pit_Items"],
+                "visibility_rules": ["YesPit"],
                 "access_rules": [
                     "$pit"
                 ],
@@ -553,9 +552,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  281,
-                        "y":  302
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  282,
+                        "y":  300
                     }
                 ]
             },
@@ -595,7 +595,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$yoshi"],
+                        "access_rules": ["PaperCurse,[$yoshi]","$yoshi"],
                         "item_count": 1
                     },
                     {
@@ -627,7 +627,7 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$yoshi"],
+                        "access_rules": ["$yoshi","{PaperCurse}"],
                         "item_count": 1
                     },
                     {
@@ -655,8 +655,9 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  359,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  352,
                         "y":  268
                     }
                 ]
@@ -700,7 +701,8 @@
                         "size": 60
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  322,
                         "y":  285
                     }
@@ -740,8 +742,9 @@
                         "size": 60
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  265,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  277,
                         "y":  240
                     }
                 ]
@@ -751,7 +754,7 @@
                 "chest_unopened_img": "/images/items/YBlock.png",
                 "chest_opened_img": "/images/items/YBlockOpen.png",
                 "overlay_background": "#000000",
-                "access_rules": ["$westside","west_open"],
+                "access_rules": ["$westside","[$westside],$HRGlvl1"],
                 "sections": [
                     {
                         "name": "Rogueport Westside - Blimp Ticket",
@@ -762,7 +765,7 @@
                     {
                         "name": "Rogueport Westside - Train Ticket",
                         "visibility_rules": [""],
-                        "access_rules": ["SapphireStar,WeddingRing"],
+                        "access_rules": ["WeddingRing,$keelhaul_key"],
                         "item_count": 1
                     },
                     {
@@ -829,8 +832,9 @@
                 },
                     {
                     "map":  "OG Map",
-                    "x":  243,
-                    "y":  269
+                    "size": 10,
+                    "x":  272,
+                    "y":  274
                 }
             ]
             },
@@ -841,7 +845,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["HiddenOn"],
                 "access_rules": [
-                    "$westside"
+                    "$westside","[$westside],$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -973,10 +977,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  269,
-                        "y":  263,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  272,
+                        "y":  263
                     }
                 ]
             },
@@ -986,7 +990,7 @@
                 "chest_opened_img": "/images/items/CoinDim.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$westside","west_open"
+                    "$westside","[$westside],$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -1034,10 +1038,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 8,
                         "x":  255,
-                        "y":  269,
-                        "size": 9
+                        "y":  269
                     }
                 ]
             },
@@ -1048,7 +1052,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch2"],
                 "access_rules": [
-                    "$bogglywoods"
+                    "$bogglywoods","[$bogglywoods],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -1128,9 +1132,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  300,
-                        "y":  195
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  302,
+                        "y":  180
                     }
                 ]
             },
@@ -1338,7 +1343,7 @@
                     },
                     {
                         "name": "Great Tree Entrance - Emerald Star",
-                        "chest_unopened_img": "/images/items/EmeraldStarHD2.png",
+                        "chest_unopened_img": "/images/items/EmeraldStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$hundredpunis,Koops"],
@@ -1365,9 +1370,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  300,
-                        "y":  160
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  302,
+                        "y":  145
                     }
                 ]
             },
@@ -1426,10 +1432,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  300,
-                        "y":  106,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  302,
+                        "y":  160
                     }
                 ]
             },
@@ -1497,9 +1503,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  355,
-                        "y":  186
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  335,
+                        "y":  180
                     }
                 ]
             },
@@ -1551,7 +1558,7 @@
                     {
                         "name": "Rogueport Sewers Spania Room - Defend Plus",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,Flurrie,BoatCurse,$yoshi","$sewerwest,Flurrie,BoatCurse,UltraBoots,Koops"],
+                        "access_rules": ["$sewerwestground,Flurrie,BoatCurse,$yoshi","$sewerwestground,Flurrie,BoatCurse,UltraBoots,Koops"],
                         "item_count": 1
                     },
                     {
@@ -1559,7 +1566,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,BoatCurse,Flurrie"],
+                        "access_rules": ["$sewerwestground,BoatCurse,Flurrie"],
                         "item_count": 1
                     },
                     {
@@ -1567,7 +1574,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,BoatCurse,Flurrie,UltraBoots"],
+                        "access_rules": ["$sewerwestground,BoatCurse,Flurrie,UltraBoots"],
                         "item_count": 1
                     },
                     {
@@ -1575,7 +1582,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,BoatCurse,Flurrie"],
+                        "access_rules": ["$sewerwestground,BoatCurse,Flurrie"],
                         "item_count": 1
                     },
                     {
@@ -1685,6 +1692,26 @@
                         "visibility_rules": [""],
                         "access_rules": ["$pit"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "ref": "Tattle Log/Goomba/"
+                    },
+                    {
+                        "name": "Tattle: Paaragoomba",
+                        "ref": "Tattle Log/Paragoomba/"
+                    },
+                    {
+                        "name": "Tattle: Spiky Goomba",
+                        "ref": "Tattle Log/Spiky Goomba/"
+                    },
+                    {
+                        "name": "Tattle: Blooper",
+                        "ref": "Tattle Log/Blooper/"
+                    },
+                    {
+                        "name": "Tattle: Spinia",
+                        "ref": "Tattle Log/Spinia/"
                     }
                 ],
                 "map_locations": [
@@ -1695,8 +1722,9 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  360,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  322,
                         "y":  300
                     }
                 ]
@@ -1707,7 +1735,7 @@
                 "chest_opened_img": "/images/items/YBlockOpen.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    ""
                 ],
                 "sections": [
                     {
@@ -1715,19 +1743,19 @@
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,UltraBoots"],
+                        "access_rules": ["$sewerwestground,UltraBoots"],
                         "item_count": 1
                     },
                     {
                         "name": "Rogueport Sewers West Enemy Hall - Gradual Syrup",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest"],
+                        "access_rules": ["$sewerwestground","[$sewerwestground],$HRGlvl1"],
                         "item_count": 1
                     },
                     {
                         "name": "Rogueport Sewers West Enemy Hall - Slow Shroom",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest"],
+                        "access_rules": ["$sewerwestground","[$sewerwestground],$HRGlvl1"],
                         "item_count": 1
                     },
                     {
@@ -1735,7 +1763,7 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest"],
+                        "access_rules": ["$sewerwestground","[$sewerwestground],$HRGlvl1"],
                         "item_count": 1
                     },
                     {
@@ -1743,7 +1771,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,$yoshi"],
+                        "access_rules": ["$twilight_town"],
                         "item_count": 1
                     },
                     {
@@ -1751,7 +1779,7 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,$yoshi"],
+                        "access_rules": ["$twilight_town","{$sewerwestground}"],
                         "item_count": 1
                     },
                     {
@@ -1759,7 +1787,7 @@
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["UltraHammer"],
+                        "access_rules": ["UltraHammer","[UltraHammer],$HRGlvl1"],
                         "item_count": 1
                     },
                     {
@@ -1775,7 +1803,7 @@
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest"],
+                        "access_rules": ["$sewerwest","$sewerwestground,UltraBoots,$yoshi"],
                         "item_count": 1
                     },
                     {
@@ -1791,7 +1819,7 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest"],
+                        "access_rules": ["$sewerwest","$sewerwestground,UltraBoots,$yoshi"],
                         "item_count": 1
                     },
                     {
@@ -1807,8 +1835,16 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest"],
+                        "access_rules": ["$sewerwest","$sewerwestground,UltraBoots,$yoshi"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Spania",
+                        "ref": "Tattle Log/Spania/"
+                    },
+                    {
+                        "name": "Tattle: Spunia",
+                        "ref": "Tattle Log/Spunia/"
                     }
 		],
                 "map_locations": [
@@ -1819,8 +1855,9 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  275,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  302,
                         "y":  300
                     }
                 ]
@@ -1831,7 +1868,7 @@
                 "chest_opened_img": "/images/items/CoinDim.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$sewerwest"
+                    "$sewerwest","$sewerwestground,UltraBoots,$yoshi"
                 ],
                 "sections": [
                     {
@@ -1879,10 +1916,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  288,
-                        "y":  295,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  296,
+                        "y":  312
                     }
                 ]
             },
@@ -1995,10 +2032,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  288,
-                        "y":  305,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  309,
+                        "y":  312
                     }
                 ]
             },
@@ -2009,7 +2046,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch3"],
                 "access_rules": [
-                    "$westside,BlimpTicket"
+                    "$westside,BlimpTicket","[$westside],BlimpTicket,$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -2101,7 +2138,8 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  395,
                         "y":  85
                     }
@@ -2114,7 +2152,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch3"],
                 "access_rules": [
-                    "$westside,BlimpTicket"
+                    "$westside,BlimpTicket","[$westside],BlimpTicket,$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -2174,10 +2212,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  375,
-                        "y":  80,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  377,
+                        "y":  80
                     }
                 ]
             },
@@ -2188,7 +2226,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch3"],
                 "access_rules": [
-                    "$westside,BlimpTicket"
+                    "$westside,BlimpTicket","[$westside],BlimpTicket,$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -2258,13 +2296,13 @@
                     {
                         "name": "Glitzville Minor-League Room - Dubious Paper",
                         "visibility_rules": [""],
-                        "access_rules": ["SuperHammer,$yoshi"],
+                        "access_rules": ["SuperHammer,$yoshi","{SuperHammer}"],
                         "item_count": 1
                     },
                     {
                         "name": "Glitzville Minor-League Room - Yoshi",
                         "visibility_rules": [""],
-                        "access_rules": ["SuperBoots,PlaneCurse"],
+                        "access_rules": ["SuperBoots,PlaneCurse","$yoshi,[SuperBoots],[PlaneCurse]"],
                         "item_count": 1
                     },
                     {
@@ -2289,7 +2327,7 @@
                     },
                     {
                         "name": "Glitzville Arena - Gold Star",
-                        "chest_unopened_img": "/images/items/GoldStarHD2.png",
+                        "chest_unopened_img": "/images/items/GoldStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Flurrie,SuperHammer"],
@@ -2304,9 +2342,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  395,
-                        "y":  60
+                        "y":  66
                     }
                 ]
             },
@@ -2367,9 +2406,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  90,
-                        "y":  90
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  109,
+                        "y":  104
                     }
                 ]
             },
@@ -2380,7 +2420,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch1"],
                 "access_rules": [
-                    "PlaneCurse","SuperBoots,SuperHammer"
+                    "PlaneCurse","SuperBoots,SuperHammer","[PlaneCurse],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -2468,9 +2508,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  505,
-                        "y":  230
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  498,
+                        "y":  222
                     }
                 ]
             },
@@ -2533,7 +2574,7 @@
                     {
                         "name": "Petal Meadows Bridge Room - Koops",
                         "visibility_rules": [""],
-                        "access_rules": ["PlaneCurse","SuperBoots,SuperHammer"],
+                        "access_rules": ["PlaneCurse","SuperBoots,SuperHammer","[PlaneCurse],$HRGlvl2"],
                         "item_count": 1
                     },
                     {
@@ -2547,7 +2588,7 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["PlaneCurse"],
+                        "access_rules": ["PlaneCurse","{SuperBoots,SuperHammer}"],
                         "item_count": 1
                     },
                     {
@@ -2559,13 +2600,13 @@
                     {
                         "name": "Petal Meadows Bridge Room - Fire Flower",
                         "visibility_rules": [""],
-                        "access_rules": ["PlaneCurse","SuperBoots,SuperHammer"],
+                        "access_rules": ["PlaneCurse","SuperBoots,SuperHammer","[PlaneCurse],$HRGlvl2"],
                         "item_count": 1
                     },
                     {
                         "name": "Petal Meadows Bridge Room - Mystery",
                         "visibility_rules": [""],
-                        "access_rules": ["PlaneCurse","SuperBoots,SuperHammer"],
+                        "access_rules": ["PlaneCurse","SuperBoots,SuperHammer","[PlaneCurse],$HRGlvl2"],
                         "item_count": 1
                     }
 		],
@@ -2577,9 +2618,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  420,
-                        "y":  215
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  463,
+                        "y":  226
                     }
                 ]
             },
@@ -2590,7 +2632,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch1"],
                 "access_rules": [
-                    "PlaneCurse","SuperBoots,SuperHammer"
+                    "PlaneCurse","SuperBoots,SuperHammer","[PlaneCurse],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -2678,9 +2720,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  570,
-                        "y":  250
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  556,
+                        "y":  249
                     }
                 ]
             },
@@ -2813,7 +2856,7 @@
                     {
                         "name": "Hooktail's Castle Life Shroom Room - Life Shroom",
                         "visibility_rules": [""],
-                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
+                        "access_rules": ["$htcastle,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
                         "item_count": 1
                     },
                     {
@@ -2821,7 +2864,7 @@
                         "chest_unopened_img": "/images/items/StarPieceClosed.png",
                         "chest_opened_img": "/images/items/StarPieceOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey3,PaperCurse","$htcastle,PaperCurse,CastleKey3,[Koops],$yoshi,Bobbery"],
+                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey3","$htcastle,PaperCurse,CastleKey3,[Koops],$yoshi,Bobbery","$htcastle,Koops,CastleKey3,{}","$htcastle,CastleKey3,[Koops],$yoshi,Bobbery,{}"],
                         "item_count": 1
                     },
                     {
@@ -2829,7 +2872,7 @@
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
+                        "access_rules": ["$htcastle,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
                         "item_count": 1
                     },
                     {
@@ -2837,7 +2880,7 @@
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
+                        "access_rules": ["$htcastle,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
                         "item_count": 1
                     },
                     {
@@ -2845,7 +2888,7 @@
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
+                        "access_rules": ["$htcastle,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
                         "item_count": 1
                     },
                     {
@@ -2853,12 +2896,12 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$htcastle,PaperCurse,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
+                        "access_rules": ["$htcastle,Koops,CastleKey2","$htcastle,CastleKey2,[Koops],$yoshi,Bobbery"],
                         "item_count": 1
                     },
                     {
                         "name": "Hooktail's Castle Hooktail's Room - Diamond Star",
-                        "chest_unopened_img": "/images/items/DiamondStarHD2.png",
+                        "chest_unopened_img": "/images/items/DiamondStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$htcastle,PaperCurse,PlaneCurse,Koops,CastleKey4","$htcastle,PaperCurse,PlaneCurse,CastleKey4,[Koops],$yoshi,Bobbery"],
@@ -2873,7 +2916,8 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  465,
                         "y":  165
                     }
@@ -2897,6 +2941,8 @@
                     },
                     {
                         "name": "Twilight Town Leftside - Peachy Peach",
+                        "chest_unopened_img": "/images/items/InnCoupon.png",
+                        "chest_opened_img": "/images/items/InnCouponDim.png",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -2986,9 +3032,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  110,
-                        "y":  325
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  106,
+                        "y":  318
                     }
                 ]
             },
@@ -3047,10 +3094,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  145,
-                        "y":  320,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  143,
+                        "y":  319
                     }
                 ]
             },
@@ -3159,9 +3206,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  195,
-                        "y":  325
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  158,
+                        "y":  295
                     }
                 ]
             },
@@ -3337,7 +3385,7 @@
                     },
                     {
                         "name": "Creepy Steeple Upper Room - Ruby Star",
-                        "chest_unopened_img": "/images/items/RubyStarHD2.png",
+                        "chest_unopened_img": "/images/items/RubyStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["SteepleKey1,TheLetterP"],
@@ -3352,9 +3400,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  160,
-                        "y":  250
+                        "y":  263
                     }
                 ]
             },
@@ -3365,7 +3414,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch5"],
                 "access_rules": [
-                    "$keelhaul_key"
+                    "$keelhaul_key","[$keelhaul_key],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -3385,7 +3434,7 @@
                     {
                         "name": "Keelhaul Key Town - Chuckola Cola",
                         "visibility_rules": [""],
-                        "access_rules": ["$yoshi,Coconut,OldLetter,$tube"],
+                        "access_rules": ["$yoshi,Coconut"],
                         "item_count": 1
                     },
                     {
@@ -3447,7 +3496,7 @@
                     {
                         "name": "Keelhaul Key Jungle Winding Climb - Coin 1",
                         "visibility_rules": [""],
-                        "access_rules": ["$yoshi"],
+                        "access_rules": [""],
                         "item_count": 1
                     },
                     {
@@ -3531,7 +3580,7 @@
                     {
                         "name": "Keelhaul Key Grotto Entrance - Skull Gem",
                         "visibility_rules": [""],
-                        "access_rules": ["Coconut,$yoshi,ChuckolaCola"],
+                        "access_rules": ["Coconut,$yoshi"],
                         "item_count": 1
                     },
                     {
@@ -3551,7 +3600,7 @@
                     {
                         "name": "Keelhaul Key Grotto Entrance - Wedding Ring",
                         "visibility_rules": [""],
-                        "access_rules": ["SapphireStar"],
+                        "access_rules": ["$yoshi"],
                         "item_count": 1
                     }
 		],
@@ -3563,9 +3612,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  320,
-                        "y":  400
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  328,
+                        "y":  404
                     }
                 ]
             },
@@ -3576,7 +3626,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch5"],
                 "access_rules": [
-                    "$keelhaul_key"
+                    "$keelhaul_key","[$keelhaul_key],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -3624,10 +3674,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  308,
-                        "y":  400,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  301,
+                        "y":  404
                     }
                 ]
             },
@@ -3638,7 +3688,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch5"],
                 "access_rules": [
-                    "$keelhaul_key,$pirates_grotto"
+                    "$keelhaul_key,$pirates_grotto","[$keelhaul_key],$pirates_grotto,$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -3732,7 +3782,7 @@
                     {
                         "name": "Pirate's Grotto Chest Boat - Black Key 4",
                         "visibility_rules": [""],
-                        "access_rules": ["$yoshi,GrottoKey,$tube"],
+                        "access_rules": ["$yoshi,GrottoKey,$tube","$yoshi,GrottoKey,Vivian"],
                         "item_count": 1
                     },
                     {
@@ -3773,7 +3823,7 @@
                     },
                     {
                         "name": "Pirate's Grotto Cortez' Hoard - Sapphire Star",
-                        "chest_unopened_img": "/images/items/SapphireStarHD2.png",
+                        "chest_unopened_img": "/images/items/SapphireStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Bobbery,BoatCurse,GateHandle,PlaneCurse"],
@@ -3788,9 +3838,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  360,
-                        "y":  410
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  369,
+                        "y":  402
                     }
                 ]
             },
@@ -3801,7 +3852,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch6"],
                 "access_rules": [
-                    "$poshley_heights"
+                    "$poshley_heights","[$poshley_heights],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -3852,7 +3903,7 @@
                     },
                     {
                         "name": "Poshley Heights Sanctum Altar - Garnet Star",
-                        "chest_unopened_img": "/images/items/GarnetStarHD2.png",
+                        "chest_unopened_img": "/images/items/GarnetStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$poshleysanctum,PlaneCurse,UltraBoots"],
@@ -3888,6 +3939,8 @@
                     },
                     {
                         "name": "Poshley Heights Downtown - Omelette Meal",
+                        "chest_unopened_img": "/images/items/InnCoupon.png",
+                        "chest_opened_img": "/images/items/InnCouponDim.png",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -3909,9 +3962,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  450,
-                        "y":  320
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  446,
+                        "y":  330
                     }
                 ]
             },
@@ -3922,7 +3976,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch6"],
                 "access_rules": [
-                    "$westside,TrainTicket,$riverside"
+                    "$westside,TrainTicket,$riverside","[TrainTicket],$riverside,$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -4002,7 +4056,7 @@
                     {
                         "name": "Riverside Station Ultra Boots Room - Elevator Key",
                         "visibility_rules": [""],
-                        "access_rules": ["Flurrie,StationKey1,StationKey2,$tube"],
+                        "access_rules": ["UltraBoots,Flurrie,StationKey1,StationKey2,$tube,$yoshi","Flurrie,StationKey1,StationKey2,$tube,{}"],
                         "item_count": 1
                     }
 		],
@@ -4014,9 +4068,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  415,
-                        "y":  275
+                        "y":  271
                     }
                 ]
             },
@@ -4027,7 +4082,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch6"],
                 "access_rules": [
-                    "$westside,TrainTicket"
+                    "$westside,TrainTicket","[$westside],TrainTicket,$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -4149,7 +4204,7 @@
                     {
                         "name": "Excess Express Storage Car - Ragged Diary",
                         "visibility_rules": [""],
-                        "access_rules": ["Autograph,Vivian,PaperCurse","Autograph,Vivian,UltraBoots"],
+                        "access_rules": ["PaperCurse","UltraBoots","{}"],
                         "item_count": 1
                     }
 		],
@@ -4161,9 +4216,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  425,
-                        "y":  245
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  415,
+                        "y":  242
                     }
                 ]
             },
@@ -4174,7 +4230,7 @@
                 "overlay_background": "#000000",
 		"visibility_rules": ["Ch6"],
                 "access_rules": [
-                    "$westside,TrainTicket"
+                    "$westside,TrainTicket","[$westside],TrainTicket,$HRGlvl1"
                 ],
                 "sections": [
                     {
@@ -4222,10 +4278,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  410,
-                        "y":  245,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  402,
+                        "y":  242
                     }
                 ]
             },
@@ -4311,6 +4367,8 @@
                     },
                     {
                         "name": "Fahr Outpost Town - Space Food",
+                        "chest_unopened_img": "/images/items/InnCoupon.png",
+                        "chest_opened_img": "/images/items/InnCouponDim.png",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -4340,9 +4398,10 @@
                         "size": 70
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  150,
-                        "y":  210
+                        "y":  208
                     }
                 ]
             },
@@ -4401,10 +4460,10 @@
                         "size": 50
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  135,
-                        "y":  210,
-                        "size": 9
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  132,
+                        "y":  198
                     }
                 ]
             },
@@ -4511,7 +4570,7 @@
                     {
                         "name": "X-Naut Fortress Teleporter Room - Cog",
                         "visibility_rules": [""],
-                        "access_rules": ["ElevatorKey1,UltraBoots,PaperCurse"],
+                        "access_rules": ["ElevatorKey1,UltraBoots,PaperCurse","ElevatorKey1,{}"],
                         "item_count": 1
                     },
                     {
@@ -4556,7 +4615,7 @@
                     },
                     {
                         "name": "X-Naut Fortress Boss Room - Crystal Star",
-                        "chest_unopened_img": "/images/items/CrystalStarHD2.png",
+                        "chest_unopened_img": "/images/items/CrystalStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["ElevatorKey1,ElevatorKey2,CardKey1,CardKey2,CardKey3,CardKey4,PaperCurse,Vivian,PlaneCurse"],
@@ -4571,7 +4630,8 @@
                         "size": 73
                     },
                     {
-                        "map":  "OG Map",
+                        "map": "OG Map",
+                        "size": 10,
                         "x":  75,
                         "y":  70
                     }
@@ -4660,8 +4720,9 @@
                         "size": 73
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  295,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  302,
                         "y":  330
                     }
                 ]
@@ -4678,13 +4739,13 @@
                 "sections": [
                     {
                         "name": "Palace of Shadow Swoopula Staircase - Stopwatch",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": [""],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Bullet Bill Hallway - Shooting Star",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": [""],
                         "item_count": 1
                     },
@@ -4692,13 +4753,13 @@
                         "name": "Palace of Shadow Spike Trap Room - All or Nothing",
                         "chest_unopened_img": "/images/items/RBlock.png",
                         "chest_opened_img": "/images/items/RBlockOpen.png",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": [""],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Fire Trap Room - Boo's Sheet",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": [""],
                         "item_count": 1
                     },
@@ -4710,13 +4771,13 @@
                     },
                     {
                         "name": "Palace of Shadow Second Bullet Bill Hallway - Ultra Shroom",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$tube,PalaceKey1","Vivian,PalaceKey1"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Large Open Room - Coin",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$tube,PalaceKey1","Vivian,PalaceKey1"],
                         "item_count": 1
                     },
@@ -4724,13 +4785,13 @@
                         "name": "Palace of Shadow Large Open Room - P-Up D-Down P",
                         "chest_unopened_img": "/images/items/RBlock.png",
                         "chest_opened_img": "/images/items/RBlockOpen.png",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$tube,PalaceKey1","Vivian,PalaceKey1"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Large Open Room - Jammin' Jelly",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$tube,PalaceKey1","Vivian,PalaceKey1"],
                         "item_count": 1
                     }
@@ -4743,8 +4804,9 @@
                         "size": 73
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  280,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  282,
                         "y":  330
                     }
                 ]
@@ -4769,37 +4831,37 @@
                     },
                     {
                         "name": "Palace of Shadow Gloomtail Room - Ultra Shroom",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$tube,Bobbery","Vivian,Bobbery"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Gloomtail Room - Jammin' Jelly",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$tube,Bobbery","Vivian,Bobbery"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Hallway 1 - Thunder Rage",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Koops,$yoshi","$palaceright,UltraBoots"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Backroom 1 - Life Shroom",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey2"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Backroom 1 - Repel Cape",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi","$palaceright,Koops"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Backroom 2 - Life Shroom",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey2,PaperCurse"],
                         "item_count": 1
                     },
@@ -4813,13 +4875,13 @@
                         "name": "Palace of Shadow Far Backroom 2 - Shooting Star",
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Backroom 3 - Coin",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey2,PaperCurse,Flurrie,UltraHammer"],
                         "item_count": 1
                     },
@@ -4833,19 +4895,19 @@
                     },
                     {
                         "name": "Palace of Shadow Far Backroom 3 - Point Swap",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey2,PaperCurse,Flurrie,UltraHammer"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Hallway 4 - Life Shroom",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey2,PaperCurse,Flurrie,UltraHammer,PlaneCurse"],
                         "item_count": 1
                     },
                     {
                         "name": "Palace of Shadow Far Hallway 4 - Shooting Star",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey2,PaperCurse,Flurrie,UltraHammer,PlaneCurse"],
                         "item_count": 1
                     },
@@ -4853,7 +4915,7 @@
                         "name": "Palace of Shadow Final Staircase - Jammin' Jelly",
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey3,PaperCurse,Flurrie,UltraHammer,PlaneCurse"],
                         "item_count": 1
                     },
@@ -4861,7 +4923,7 @@
                         "name": "Palace of Shadow Final Staircase - Ultra Shroom",
                         "chest_unopened_img": "/images/items/BigChest.png",
                         "chest_opened_img": "/images/items/BigChestOpen.png",
-                        "visibility_rules": ["NoChap8"],
+                        "visibility_rules": ["YesChap8"],
                         "access_rules": ["$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey3,PaperCurse,Flurrie,UltraHammer,PlaneCurse"],
                         "item_count": 1
                     }
@@ -4874,19 +4936,20 @@
                         "size": 73
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  310,
+                        "map": "OG Map",
+                        "size": 10,
+                        "x":  322,
                         "y":  330
                     }
                 ]
             },
             {
                 "name": "Shadow Queen",
-                "chest_unopened_img": "/images/items/StarKeyHD2.png",
+                "chest_unopened_img": "/images/items/StarKey.png",
                 "chest_opened_img": "/images/items/ClosedStar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$palace,$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey3,PaperCurse,Flurrie,UltraHammer,PlaneCurse"
+                    "$palace,$palaceright,Bobbery,$yoshi,UltraBoots,PalaceKey3,PaperCurse,Flurrie,UltraHammer,PlaneCurse","YesPalaceSkip"
                 ],
                 "sections": [
                     {
@@ -4904,9 +4967,10 @@
                         "size": 36
                     },
                     {
-                        "map":  "OG Map",
-                        "x":  77,
-                        "y":  402
+                        "map": "OG Map",
+                        "size": 8,
+                        "x":  78,
+                        "y":  403
                     }
                 ]
             }

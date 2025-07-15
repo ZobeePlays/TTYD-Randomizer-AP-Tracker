@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Excess Express",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Locomotive - Autograph"}],
+                "map_locations": [{"map": "Excess Express", "x": 3315, "y": 2028}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Locomotive - Star Piece"}],
+                "map_locations": [{"map": "Excess Express", "x": 3111, "y": 1926}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Front Passenger Car - Vital Paper"}],
+                "map_locations": [{"map": "Excess Express", "x": 2763, "y": 1650}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Front Passenger Car - 30 Coins"}],
+                "map_locations": [{"map": "Excess Express", "x": 2631, "y": 1569}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Blanket"}],
+                "map_locations": [{"map": "Excess Express", "x": 2205, "y": 1296}]
+            },
+            {
+                "sections": [{"name": "Excess Express Middle Passenger Car - Briefcase","ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Briefcase"},
+                {"name": "Excess Express Middle Passenger Car - Gold Ring","ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Gold Ring"},
+                {"name": "Excess Express Middle Passenger Car - Shell Earrings","ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Shell Earrings"}],
+                "map_locations": [{"map": "Excess Express", "x": 2061, "y": 1233}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Dried Shroom"}],
+                "map_locations": [{"map": "Excess Express", "x": 2103, "y": 1170}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Galley Pot"}],
+                "map_locations": [{"map": "Excess Express", "x": 2385, "y": 1338}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Shine Sprite"}],
+                "map_locations": [{"map": "Excess Express", "x": 1974, "y": 1191}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Middle Passenger Car - Star Piece"}],
+                "map_locations": [{"map": "Excess Express", "x": 2112, "y": 1323}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Dining Car - Star Piece 1"}],
+                "map_locations": [{"map": "Excess Express", "x": 1599, "y": 927}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Dining Car - Star Piece 2"}],
+                "map_locations": [{"map": "Excess Express", "x": 1713, "y": 1050}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Back Passenger Car - Mushroom"}],
+                "map_locations": [{"map": "Excess Express", "x": 612, "y": 498}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Back Passenger Car - Shine Sprite"}],
+                "map_locations": [{"map": "Excess Express", "x": 723, "y": 483}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Back Passenger Car - Star Piece"}],
+                "map_locations": [{"map": "Excess Express", "x": 819, "y": 438}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Excess Express/Excess Express Storage Car - Ragged Diary"}],
+                "map_locations": [{"map": "Excess Express", "x": 321, "y": 258}]
+            }
+        ]
+    },
+    {
+        "name": "Excess Express - Sales Stall",
+        "children": [
+            {
+                "sections": [{"name": "Thunder Rage Purchase","ref": "Magical Map/Excess Express - Sales Stall/Thunder Rage Purchase"},
+                {"name": "Mystery Purchase","ref": "Magical Map/Excess Express - Sales Stall/Mystery Purchase"},
+                {"name": "Boo's Sheet Purchase","ref": "Magical Map/Excess Express - Sales Stall/Boo's Sheet Purchase"},
+                {"name": "Tasty Tonic Purchase","ref": "Magical Map/Excess Express - Sales Stall/Tasty Tonic Purchase"},
+                {"name": "Maple Syrup Purchase","ref": "Magical Map/Excess Express - Sales Stall/Maple Syrup Purchase"},
+                {"name": "Super Shroom Purchase","ref": "Magical Map/Excess Express - Sales Stall/Super Shroom Purchase"}],
+                "map_locations": [{"map": "Excess Express", "x": 1410, "y": 819}]
+            }
+        ]
+    }
+]

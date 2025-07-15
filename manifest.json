@@ -1,16 +1,17 @@
 {
     "name": "TTYD Key Item Tracker",
     "game_name": "TTYD",
-    "package_version": "0.11.0",
+    "package_version": "1.1.0",
     "package_uid": "ttyd_ap",
-    "author": "ZobeePlays & earthor1",
+    "author": "ZobeePlays, earthor1, & PillarAngel",
+    "versions_url": "https://raw.githubusercontent.com/ZobeePlays/TTYD-Randomizer-AP-Tracker/refs/heads/main/versions.json",
     "variants": {
-        "OGSprites": {
+        "var_Default": {
             "display_name": "Items Only - OG Sprites",
             "flags": ["ap"]
     },
-        "var_RequiredOnly": {
-            "display_name": "Items Only - Required Only (OG Sprites)",
+        "var_Default_RequiredOnly": {
+            "display_name": "Items Only - OG Sprites (Required Only)",
             "flags": ["ap"]
     },
         "var_DolphinHDTexturePack": {
@@ -21,16 +22,16 @@
             "display_name": "Badges Only",
             "flags": ["ap"]
     },
-        "var_SwitchRemakeWithOutlines": {
+        "var_ItemsOnlySwitchRemakeWithOutlines": {
             "display_name": "Items Only - Switch Remake With Outlines",
             "flags": ["ap"]
     },
-        "var_SwitchRemakeNoOutlines": {
+        "var_ItemsOnlySwitchRemakeNoOutlines": {
             "display_name": "Items Only - Switch Remake No Outlines",
             "flags": ["ap"]
     },
         "var_OGSpritesWithMap": {
-            "display_name": "(WIP) Map Tracker - OG Sprites",
+            "display_name": "Map Tracker - OG Sprites",
             "flags": ["ap"]
     },
         "var_SwitchRemakeNoOutlinesWithMap": {
@@ -38,5 +39,5 @@
             "flags": ["ap"]
     }
     },
-    "min_poptracker_version": "0.27.0"
+    "min_poptracker_version": "0.32.1"
 }

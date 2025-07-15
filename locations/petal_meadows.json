@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Petal Meadows Left",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Entrance - Mushroom 1"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 972, "y": 582}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Entrance - Mushroom 2"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 663, "y": 255}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Entrance - Star Piece"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 582, "y": 192}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Field - 10 Coins"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 1539, "y": 915}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Field - Close Call"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 1245, "y": 705}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Field - Happy Heart"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 1551, "y": 831}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Field - Horsetail"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 1656, "y": 996}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Koops"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2115, "y": 1401}]
+            },
+            {
+                "sections": [{"name": "Petal Meadows Bridge Room - Coin 1", "ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Coin 1"},
+                            {"name": "Petal Meadows Bridge Room - Coin 2", "ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Coin 2"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 1790, "y": 1221}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Star Piece"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2244, "y": 1176}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Coin 2"}]
+
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Fire Flower"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2139, "y": 1341}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Left/Petal Meadows Bridge Room - Mystery"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2046, "y": 1308}]
+            }
+        ]
+    },
+    {
+        "name": "Petalburg",
+        "children": [
+            {
+                "sections": [{"ref": "Magical Map/Petalburg/Petalburg Westside - Star Piece"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2292, "y": 1746}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petalburg/Petalburg Eastside - Mega Rush P"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2934, "y": 1770}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petalburg/Petalburg Eastside - Star Piece"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2928, "y": 2076}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petalburg/Petalburg Eastside - Turtley Leaf"}],
+                "map_locations": [{"map": "Petal Meadows", "x": 2790, "y": 1788}]
+            },
+            {
+                "name": "Niff T.'s Shop",
+                "sections": [
+                    {
+                        "name": "Petalburg Westside (Niff T.'s Shop) - Fire Flower Purchase",
+                        "ref": "Magical Map/Petalburg/Petalburg Westside (Niff T.'s Shop) - Fire Flower Purchase"
+                    },
+                    {
+                        "name": "Petalburg Westside (Niff T.'s Shop) - POW Block Purchase",
+                        "ref": "Magical Map/Petalburg/Petalburg Westside (Niff T.'s Shop) - POW Block Purchase"
+                    },
+                    {
+                        "name": "Petalburg Westside (Niff T.'s Shop) - Courage Shell Purchase",
+                        "ref": "Magical Map/Petalburg/Petalburg Westside (Niff T.'s Shop) - Courage Shell Purchase"
+                    },
+                    {
+                        "name": "Petalburg Westside (Niff T.'s Shop) - Mr. Softener Purchase",
+                        "ref": "Magical Map/Petalburg/Petalburg Westside (Niff T.'s Shop) - Mr. Softener Purchase"
+                    },
+                    {
+                        "name": "Petalburg Westside (Niff T.'s Shop) - Honey Syrup Purchase",
+                        "ref": "Magical Map/Petalburg/Petalburg Westside (Niff T.'s Shop) - Honey Syrup Purchase"
+                    },
+                    {
+                        "name": "Petalburg Westside (Niff T.'s Shop) - Mushroom Purchase",
+                        "ref": "Magical Map/Petalburg/Petalburg Westside (Niff T.'s Shop) - Mushroom Purchase"
+                    }
+                ],
+                "map_locations": [{"map": "Petal Meadows", "x": 2625, "y": 1527}]
+            }
+        ]
+    }
+]

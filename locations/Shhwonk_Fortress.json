@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Petal Meadows Right",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows First Fort Exterior - Star Piece"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 534, "y": 216}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows First Fort Exterior - Coin"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 1005, "y": 558}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows First Fort Exterior - POW Block"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 1131, "y": 675}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows Second Fort Exterior - Coin 1"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 1866, "y": 1133}]
+            },
+            {
+                "sections": [{"name": "Petal Meadows Second Fort Exterior - POW Block", "ref": "Magical Map/Petal Meadows Right/Petal Meadows Second Fort Exterior - POW Block"},
+                            {"name": "Petal Meadows Second Fort Exterior - Coin 2", "ref": "Magical Map/Petal Meadows Right/Petal Meadows Second Fort Exterior - Coin 2"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 1950, "y": 1200}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows Third Fort Exterior - Inn Coupon"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 2540, "y": 1700}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows Third Fort Exterior - Fire Flower"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 2600, "y": 1600}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows Third Fort Exterior - Coin"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 2607, "y": 1704}]
+            },
+            {
+                "sections": [{"name": "Petal Meadows Sewers - Multibounce", "ref": "Magical Map/Petal Meadows Right/Petal Meadows Sewers - Multibounce"},
+                            {"name": "Petal Meadows Sewers West Key Room - Moon Stone", "ref": "Magical Map/Petal Meadows Right/Petal Meadows Sewers West Key Room - Moon Stone"},
+                            {"name": "Petal Meadows Sewers East Key Room - Sun Stone", "ref": "Magical Map/Petal Meadows Right/Petal Meadows Sewers East Key Room - Sun Stone"}],
+                "map_locations": [{"map": "Shhwonk Fortress", "x": 2950, "y": 1900}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows Sewers West Key Room - Moon Stone"}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Petal Meadows Right/Petal Meadows Sewers East Key Room - Sun Stone"}]
+            }
+        ]
+    }
+]

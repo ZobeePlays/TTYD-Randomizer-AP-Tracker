@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Twilight Town",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Twilight Town/Twilight Town Leftside - Coin"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1269, "y": 1941}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Town/Twilight Town Leftside - Peachy Peach"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1095, "y": 1869}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Town/Twilight Town Leftside - Star Piece 2"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1002, "y": 1965}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Town/Twilight Town Leftside - Star Piece 1"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1239, "y": 2037}]
+            },
+            {
+                "sections": [{"name": "Twilight Town Leftside - Superbombomb","ref": "Magical Map/Twilight Town/Twilight Town Leftside - Superbombomb"},
+                {"name": "Twilight Town Leftside - Vivian","ref": "Magical Map/Twilight Town/Twilight Town Leftside - Vivian"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1107, "y": 2070}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Town/Twilight Town Rightside - Star Piece"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1515, "y": 1782}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Town/Twilight Town Rightside (Twilight Shop) - Inn Coupon"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1185, "y": 1704}]
+            },
+            {
+                "sections": [{"name": "Twilight Town Rightside (Twilight Shop Back) - Boo's Sheet","ref": "Magical Map/Twilight Town/Twilight Town Rightside (Twilight Shop Back) - Boo's Sheet"},
+                {"name": "Twilight Town Rightside (Twilight Shop Back) - Defend Plus","ref": "Magical Map/Twilight Town/Twilight Town Rightside (Twilight Shop Back) - Defend Plus"},
+                {"name": "Twilight Town Rightside (Twilight Shop Back) - Jammin' Jelly","ref": "Magical Map/Twilight Town/Twilight Town Rightside (Twilight Shop Back) - Jammin' Jelly"},
+                {"name": "Twilight Town Rightside (Twilight Shop Back) - Life Shroom","ref": "Magical Map/Twilight Town/Twilight Town Rightside (Twilight Shop Back) - Life Shroom"},
+                {"name": "Twilight Town Rightside (Twilight Shop Back) - Tube Curse","ref": "Magical Map/Twilight Town/Twilight Town Rightside (Twilight Shop Back) - Tube Curse"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1197, "y": 1785}]
+            }
+        ]
+    },
+    {
+        "name": "Twilight Shop Purchases",
+        "children": [
+            {
+                "sections": [{"name": "Thunder Rage Purchase","ref": "Magical Map/Twilight Shop Purchases/Thunder Rage Purchase"},
+                {"name": "Spite Pouch Purchase","ref": "Magical Map/Twilight Shop Purchases/Spite Pouch Purchase"},
+                {"name": "Stopwatch Purchase","ref": "Magical Map/Twilight Shop Purchases/Stopwatch Purchase"},
+                {"name": "Maple Syrup Purchase","ref": "Magical Map/Twilight Shop Purchases/Maple Syrup Purchase"},
+                {"name": "Super Shroom Purchase","ref": "Magical Map/Twilight Shop Purchases/Super Shroom Purchase"},
+                {"name": "Life Shroom Purchase","ref": "Magical Map/Twilight Shop Purchases/Life Shroom Purchase"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1299, "y": 1710}]
+            }
+        ]
+    },
+    {
+        "name": "Tilight Trail",
+        "children": [
+            {
+                "sections": [{"name": "Twilight Trail Entrance - 10 Coins","ref": "Magical Map/Twilight Trail/Twilight Trail Entrance - 10 Coins"},
+                {"name": "Twilight Trail Entrance - Black Key 3","ref": "Magical Map/Twilight Trail/Twilight Trail Entrance - Black Key 3"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1548, "y": 1641}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Hyper Goomba Room - 10 Coins"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1986, "y": 1338}]
+            },
+            {
+                "sections": [{"name": "Twilight Trail Hyper Goomba Room - Coin","ref": "Magical Map/Twilight Trail/Twilight Trail Hyper Goomba Room - Coin"},
+                {"name": "Twilight Trail Hyper Goomba Room - Super Shroom","ref": "Magical Map/Twilight Trail/Twilight Trail Hyper Goomba Room - Super Shroom"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1851, "y": 1419}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Fallen Tree - Shop Key"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 2190, "y": 1239}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Fallen Tree - Star Piece 1"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 2148, "y": 1230}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Fallen Tree - Star Piece 2"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 2238, "y": 1161}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Dark Woods First Room - 10 Coins"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1956, "y": 1044}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Dark Woods First Room - Earthquake"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1992, "y": 933}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Dark Woods Second Room - Hammer Throw"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1737, "y": 1152}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Dark Woods Third Room - 10 Coins"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 1731, "y": 840}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Twilight Trail/Twilight Trail Dark Woods Third Room - Shine Sprite"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 2019, "y": 630}]
+            }
+        ]
+    },
+    {
+        "name": "Creepy Steeple",
+        "children": [
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Twilight Trail Steeple Exterior - Coin"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 2229, "y": 468}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Twilight Trail Steeple Exterior - Star Piece"}],
+                "map_locations": [{"map": "Twilight Trail", "x": 2160, "y": 525}]
+            }
+        ]
+    }
+]

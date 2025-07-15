@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Riverside Station",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Drawbridge - Station Key 1"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1074, "y": 687}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Entrance - Close Call P"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1002, "y": 540}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Clockwork Room - Star Piece"}],
+                "map_locations": [{"map": "Riverside Station", "x": 2220, "y": 354}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Clockwork Room - Station Key 2"}],
+                "map_locations": [{"map": "Riverside Station", "x": 2274, "y": 327}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Back Exterior - Thunder Rage"}],
+                "map_locations": [{"map": "Riverside Station", "x": 2703, "y": 744}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Back Exterior - Shine Sprite"}],
+                "map_locations": [{"map": "Riverside Station", "x": 2805, "y": 948}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Back Exterior - HP Plus"}],
+                "map_locations": [{"map": "Riverside Station", "x": 2121, "y": 813}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Tube Mode Maze - Dried Shroom"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1557, "y": 1998}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Tube Mode Maze - P-Up D-Down"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1572, "y": 1332}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Ultra Boots Room - Ultra Boots"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1266, "y": 1869}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Goomba Room - Shine Sprite"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1062, "y": 1812}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Riverside Station/Riverside Station Ultra Boots Room - Elevator Key"}],
+                "map_locations": [{"map": "Riverside Station", "x": 1284, "y": 1950}]
+            }
+        ]
+    }
+]

@@ -15,8 +15,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 50,
+                        "item_width": 50,
                         "rows": [
                             [
                                 "PowerJump",
@@ -43,7 +43,7 @@
                                 "DoubleDipP",
                                 "HPPlus",
                                 "HPPlusP",
-                                "FPPlus",
+                                "FPPlus"
                             ],
                             [
                                 "PowerPlus",
@@ -52,7 +52,7 @@
                                 "Jumpman",
                                 "Hammerman",
                                 "PupDdown",
-                                "PupDdownP",
+                                "PupDdownP"
                             ],
                             [
                                 "PdownDup",
@@ -179,7 +179,7 @@
                                 "DoubleDipP",
                                 "HPPlus",
                                 "HPPlusP",
-                                "FPPlus",
+                                "FPPlus"
                             ],
                             [
                                 "PowerPlus",
@@ -188,7 +188,7 @@
                                 "Jumpman",
                                 "Hammerman",
                                 "PupDdown",
-                                "PupDdownP",
+                                "PupDdownP"
                             ],
                             [
                                 "PdownDup",

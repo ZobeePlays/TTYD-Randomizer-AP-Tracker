@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Glitzville Main Square",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Inn Coupon"}],
+                "map_locations": [{"map": "Glitzville", "x": 2133, "y": 1200}]
+            },
+            {
+                "sections": [{"name": "Glitzville Main Square - Power Plus P","ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Power Plus P"},
+                {"name": "Glitzville Main Square - Super Hammer","ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Super Hammer"}],
+                "map_locations": [{"map": "Glitzville", "x": 2148, "y": 1422}]
+            },
+            {
+                "sections": [{"name": "Glitzville Main Square - Shine Sprite","ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Shine Sprite"},
+                {"name": "Glitzville Main Square - Coin","ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Coin"}],
+                "map_locations": [{"map": "Glitzville", "x": 1998, "y": 1137}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Star Piece 1"}],
+                "map_locations": [{"map": "Glitzville", "x": 2253, "y": 1404}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Star Piece 2"}],
+                "map_locations": [{"map": "Glitzville", "x": 915, "y": 840}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Star Piece 3"}],
+                "map_locations": [{"map": "Glitzville", "x": 1938, "y": 993}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Star Piece 4"}],
+                "map_locations": [{"map": "Glitzville", "x": 1194, "y": 1533}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Star Piece 5"}],
+                "map_locations": [{"map": "Glitzville", "x": 2154, "y": 1311}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square/Glitzville Main Square - Storage Key 1"}],
+                "map_locations": [{"map": "Glitzville", "x": 909, "y": 930}]
+            }
+        ]
+    },
+    {
+        "name": "Glitzville Main Square Shops",
+        "children": [
+            {
+                "sections": [{"name": "Souvenir Shop - Earth Quake Purchase","ref": "Magical Map/Glitzville Main Square Shops/Souvenir Shop - Earth Quake Purchase"},
+                {"name": "Souvenir Shop - Thunder Bolt Purchase","ref": "Magical Map/Glitzville Main Square Shops/Souvenir Shop - Thunder Bolt Purchase"},
+                {"name": "Souvenir Shop - Power Punch Purchase","ref": "Magical Map/Glitzville Main Square Shops/Souvenir Shop - Power Punch Purchase"},
+                {"name": "Souvenir Shop - Repel Cape Purchase","ref": "Magical Map/Glitzville Main Square Shops/Souvenir Shop - Repel Cape Purchase"},
+                {"name": "Souvenir Shop - Point Swap Purchase","ref": "Magical Map/Glitzville Main Square Shops/Souvenir Shop - Point Swap Purchase"},
+                {"name": "Souvenir Shop - Super Shroom Purchase","ref": "Magical Map/Glitzville Main Square Shops/Souvenir Shop - Super Shroom Purchase"}],
+                "map_locations": [{"map": "Glitzville", "x": 1167, "y": 846}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square Shops/Hot Dog Stand - Hot Dog Purchase"}],
+                "map_locations": [{"map": "Glitzville", "x": 1500, "y": 810}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzville Main Square Shops/Businessman - Hot Sauce Purchase"}],
+                "map_locations": [{"map": "Glitzville", "x": 1680, "y": 900}]
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Keelhaul Key",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Landing Site - Star Piece"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 855, "y": 1773}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Landing Site - Whacka Bumps"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 255, "y": 1743}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Town - Chuckola Cola"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1305, "y": 1683}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Town - Star Piece 2"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1374, "y": 1836}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Town - Star Piece 1"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1455, "y": 1554}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Entrance - Coin"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1827, "y": 1266}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Entrance - Courage Shell"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1644, "y": 1416}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Entrance - Head Rattle"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1572, "y": 1374}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Entrance - Keel Mango"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1530, "y": 1398}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Entrance - Star Piece"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1551, "y": 1506}]
+            },
+            {
+                "sections": [{"name":"Keelhaul Key Jungle Winding Climb - Coin 1","ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Coin 1"},
+                {"name":"Keelhaul Key Jungle Winding Climb - 10 Coins","ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - 10 Coins"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2160, "y": 1005}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Coin 2"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2214, "y": 855}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Mini Mr.Mini"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2118, "y": 1077}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Shine Sprite"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1935, "y": 993}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Star Piece"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2328, "y": 921}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Jammin' Jelly"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2136, "y": 936}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Winding Climb - Thunder Rage"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2079, "y": 900}]
+            },
+            {
+                "sections": [{"name": "Keelhaul Key Jungle Bridge - Coconut 1","ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Bridge - Coconut 1"},
+                {"name": "Keelhaul Key Jungle Bridge - Coconut 2","ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Bridge - Coconut 2"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2463, "y": 480}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Bridge - Ice Power"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2673, "y": 534}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Bridge - Inn Coupon"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2472, "y": 681}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Jungle Bridge - Shine Sprite"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2769, "y": 465}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Grotto Entrance - Bobbery"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 3030, "y": 312}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Grotto Entrance - Skull Gem"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 3102, "y": 201}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Grotto Entrance - Spite Pouch"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 3171, "y": 273}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Grotto Entrance - Star Piece"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 3234, "y": 231}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Keelhaul Key/Keelhaul Key Grotto Entrance - Wedding Ring"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 2937, "y": 345}]
+            }
+        ]
+    },
+    {"name": "Keelhaul Galleria",
+    "children": [
+            {
+                "sections": [{"name": "Ice Storm Purchase","ref": "Magical Map/Keelhaul Galleria/Ice Storm Purchase"},
+                {"name": "Fire Flower Purchase","ref": "Magical Map/Keelhaul Galleria/Fire Flower Purchase"},
+                {"name": "Sleepy Sheep Purchase","ref": "Magical Map/Keelhaul Galleria/Sleepy Sheep Purchase"},
+                {"name": "Fright Mask Purchase","ref": "Magical Map/Keelhaul Galleria/Fright Mask Purchase"},
+                {"name": "Honey Syrup Purchase","ref": "Magical Map/Keelhaul Galleria/Honey Syrup Purchase"},
+                {"name": "Super Shroom Purchase","ref": "Magical Map/Keelhaul Galleria/Super Shroom Purchase"}],
+                "map_locations": [{"map": "Keelhaul Key", "x": 1143, "y": 1611}]
+            }
+        ]
+    }
+]

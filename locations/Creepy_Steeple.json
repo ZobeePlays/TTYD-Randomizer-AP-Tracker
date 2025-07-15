@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Creepy Steeple",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Main Hall - Lucky Start"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1842, "y": 1077}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Main Hall - Steeple Key 1"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1371, "y": 837}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple North Hall - Golden Leaf"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 2382, "y": 1230}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Cookbook Room - Cookbook"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 2016, "y": 714}]
+            },
+            {
+                "sections": [{"name": "Creepy Steeple Cookbook Room - Ice Smash","ref": "Magical Map/Creepy Steeple/Creepy Steeple Cookbook Room - Ice Smash"},
+                {"name": "Creepy Steeple Cookbook Room - Shine Sprite","ref": "Magical Map/Creepy Steeple/Creepy Steeple Cookbook Room - Shine Sprite"},
+                {"name": "Creepy Steeple Cookbook Room - Star Piece","ref": "Magical Map/Creepy Steeple/Creepy Steeple Cookbook Room - Star Piece"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1980, "y": 672}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Under Statue - Flower Saver"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 2088, "y": 2079}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Boo Chest Room - Star Piece"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1776, "y": 1845}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Boo Chest Room - Ultra Mushroom"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1665, "y": 1902}]
+            },
+            {
+                "sections": [{"name": "Creepy Steeple Parrot Room - Mr. Softener","ref": "Magical Map/Creepy Steeple/Creepy Steeple Parrot Room - Mr. Softener"},
+                {"name": "Creepy Steeple Parrot Room - Power Plus","ref": "Magical Map/Creepy Steeple/Creepy Steeple Parrot Room - Power Plus"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1509, "y": 1659}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Parrot Room - Star Piece"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1491, "y": 1737}]
+            },
+            {
+                "sections": [{"name": "Creepy Steeple Parrot Room - Steeple Key 2","ref": "Magical Map/Creepy Steeple/Creepy Steeple Parrot Room - Steeple Key 2"},
+                {"name": "Creepy Steeple Parrot Room - The Letter P","ref": "Magical Map/Creepy Steeple/Creepy Steeple Parrot Room - The Letter P"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1365, "y": 1665}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Well Entrance - Shine Sprite"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 894, "y": 1227}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Buzzy Room - Tornado Jump"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1110, "y": 1347}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Underground Tube Passage - Shine Sprite"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1422, "y": 1341}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Back Stairs - Star Piece"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 2097, "y": 1293}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Creepy Steeple/Creepy Steeple Upper Room - Ruby Star"}],
+                "map_locations": [{"map": "Creepy Steeple", "x": 1740, "y": 399}]
+            }
+        ]
+    }
+]

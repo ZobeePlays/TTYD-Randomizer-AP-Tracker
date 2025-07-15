@@ -1,14 +1,152 @@
 [
-    {
-        "name": "GCMap",
-        "location_size": 12,
-        "location_border_thickness": 2,
-        "img": "images/maps/GCWorldMap.png"
-    },
-    {
-        "name": "SwitchMap",
-        "location_size": 12,
-        "location_border_thickness": 2,
-        "img": "images/maps/SwitchWorldMap.png"
-    }
+            {
+                "name": "OG Map",
+                "location_size": 12,
+                "location_border_thickness": 2,
+                "img": "images/maps/GCWorldMap.png"
+            },
+            {
+                "name": "HD Map",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/SwitchWorldMap.png"
+            },
+            {
+                "name": "Town",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Rogueport/town.png"
+            },
+            {
+                "name": "Sewers",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Rogueport/sewers.png"
+            },
+            {
+                "name": "Petal Meadows",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 1/petal_meadows.png"
+            },
+            {
+                "name": "Shhwonk Fortress",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 1/shhwonk_fortress.png"
+            },
+            {
+                "name": "Hooktail Castle",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 1/hooktail_castle.png"
+            },
+            {
+                "name": "Boggly Woods",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 2/boggly_woods.png"
+            },
+            {
+                "name": "The Great Tree",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 2/the_great_tree.png"
+            },
+            {
+                "name": "Glitzville",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 3/ville.png"
+            },
+            {
+                "name": "The Glitz Pit",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 3/pit.png"
+            },
+            {
+                "name": "Twilight Trail",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 4/twilight_trail.png"
+            },
+            {
+                "name": "Creepy Steeple",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 4/creepy_steeple.png"
+            },
+            {
+                "name": "Keelhaul Key",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 5/keelhaul_key.png"
+            },
+            {
+                "name": "Pirate's Grotto",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 5/pirates_grotto.png"
+            },
+            {
+                "name": "Excess Express",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 6/excess_express.png"
+            },
+            {
+                "name": "Riverside Station",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 6/riverside_station.png"
+            },
+            {
+                "name": "Poshley Heights",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 6/poshley_heights.png"
+            },
+            {
+                "name": "Fahr Outpost",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 7/fahr_outpost.png"
+            },
+            {
+                "name": "The Moon",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 7/the_moon.png"
+            },
+            {
+                "name": "X-Naut Fortress",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 7/x-naut_fortress.png"
+            },
+            {
+                "name": "Pos Left",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 8/pos_left.png"
+            },
+            {
+                "name": "Riddle Tower",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 8/pos_riddletower.png"
+            },
+            {
+                "name": "Pos Right",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/Chapter 8/pos_right.png"
+            },
+            {
+                "name": "Tattle Log",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/FulltattleLog.png"
+            }
 ]

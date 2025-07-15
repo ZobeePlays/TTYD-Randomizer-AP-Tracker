@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Hooktail's Castle",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Drawbridge - HP Plus"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 939, "y": 1878}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Entrance - Power Bounce"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1200, "y": 1671}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Red Bones Room - Castle Key"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1557, "y": 1533}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Red Bones Room - Star Piece"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1464, "y": 1581}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Switch Room - Castle Key"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1857, "y": 1371}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Switch Room - Shine Sprite"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1812, "y": 1443}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Switch Room - Star Piece 1"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1902, "y": 1272}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Switch Room - Star Piece 2"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1992, "y": 1020}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Central Staircase - Castle Key"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2349, "y": 738}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Central Staircase - Last Stand P"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2355, "y": 900}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Central Staircase - Shine Sprite"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2121, "y": 507}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Stair Central Staircase - Star Piece"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2121, "y": 1173}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Prison Entrance - Paper Curse"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2667, "y": 1101}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Prison Entrance - Attack FX R"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2478, "y": 1104}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Spikes Room - Black Key 2"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2883, "y": 1014}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Up Arrow Room - Up Arrow"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 3099, "y": 930}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Life Shroom Room - Life Shroom"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1569, "y": 1032}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Plane Rafters Room - Star Piece"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 2046, "y": 681}]
+            },
+            {
+                "sections": [{"name": "Hooktail's Castle Storeroom - Castle Key","ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Storeroom - Castle Key"},
+                {"name": "Hooktail's Castle Storeroom - Honey Syrup","ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Storeroom - Honey Syrup"},
+                {"name": "Hooktail's Castle Storeroom - Mushroom","ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Storeroom - Mushroom"},
+                {"name": "Hooktail's Castle/Hooktail's Castle Storeroom - Shine Sprite","ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Storeroom - Shine Sprite"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1437, "y": 1002}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Hooktail's Castle/Hooktail's Castle Hooktail's Room - Diamond Star"}],
+                "map_locations": [{"map": "Hooktail Castle", "x": 1716, "y": 357}]
+            }
+        ]
+    }
+]

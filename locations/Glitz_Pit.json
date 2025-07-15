@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Glitzpit",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Lobby - Star Piece"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 945, "y": 1395}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Lobby - Storage Key 2"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 1131, "y": 1230}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Hall - Last Stand"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 1980, "y": 1542}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Promoter's Office - Star Piece 1"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 1920, "y": 444}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Promoter's Office - Star Piece 2"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 2217, "y": 504}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Storage Room - Charge P"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 2622, "y": 681}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Storage Room - HP Plus P"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 2418, "y": 183}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Storage Room - Shine Sprite"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 2736, "y": 423}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Storage Room - Star Piece"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 2427, "y": 723}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Minor-League Room - Dubious Paper"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 417, "y": 531}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Minor-League Room - Yoshi"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 834, "y": 759}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Major-League Room - Champ's Belt"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 1419, "y": 372}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Major-League Room - Ice Storm"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 1265, "y": 258}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Storage Back Room - Star Piece"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 3108, "y": 855}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Glitzpit/Glitzville Arena - Gold Star"}],
+                "map_locations": [{"map": "The Glitz Pit", "x": 1655, "y": 1209}]
+            }
+        ]
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "name": "Rogueport Center",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Star Piece 1"}],
+                "map_locations": [{"map": "Town", "x": 1780, "y": 1063}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Star Piece 2"}],
+                "map_locations": [{"map": "Town", "x": 1669, "y": 1465}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Star Piece 3"}],
+                "map_locations": [{"map": "Town", "x": 1930, "y": 1560}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Star Piece 4"}],
+                "map_locations": [{"map": "Town", "x": 2142, "y": 1376}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Star Piece 5"}],
+                "map_locations": [{"map": "Town", "x": 1678, "y": 1048}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Ultra Hammer"}],
+                "map_locations": [{"map": "Town", "x": 1980, "y": 1400}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Center/Rogueport Center - Old Letter"}],
+                "map_locations": [{"map": "Town", "x": 1908, "y": 1330}]
+            },
+            {
+                "name": "Rogueport Center - Lovely Howz of Badges",
+                "sections": [
+                    {
+                        "name": "FP Drain Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - FP Drain"
+                    },
+                    {   "name": "Happy Flower Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Happy Flower"
+                    },
+                    {   "name": "Last Stand Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Last Stand"
+                    },
+                    {   "name": "Piercing Blow Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Piercing Blow"
+                    },
+                    {   "name": "Power Jump Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Power Jump"
+                    },
+                    {   "name": "Simplifier Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Simplifier"
+                    },
+                    {   "name": "Super Appeal Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Super Appeal"
+                    },
+                    {   "name": "Unsimplifier Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Unsimplifier"
+                    },
+                    {   "name": "Close Call Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Close Call"
+                    },
+                    {   "name": "Close Call P Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Close Call P"
+                    },
+                    {   "name": "Sleepy Stomp Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Sleepy Stomp"
+                    },
+                    {   "name": "First Attack Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - First Attack"
+                    },
+                    {   "name": "Ice Smash Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Ice Smash"
+                    },
+                    {   "name": "Power Rush P Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Power Rush P"
+                    },
+                    {   "name": "Shrink Stomp Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Shrink Stomp"
+                    },
+                    {   "name": "Head Rattle Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Head Rattle"
+                    },
+                    {   "name": "Soft Stomp Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Soft Stomp"
+                    },
+                    {   "name": "Fire Drive Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Fire Drive"
+                    },
+                    {   "name": "Super Appeal P Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Super Appeal P"
+                    },
+                    {   "name": "Attack FX P Purchase",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Attack FX P"
+                    },
+                    {   "name": "Simplifier (6 Chapters Cleared)",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Simplifier (6 Chapters Cleared)"
+                    },
+                    {   "name": "Unsimplifier (6 Chapters Cleared)",
+                        "ref": "Magical Map/Rogueport Center - Lovely Howz of Badges/Rogueport Center (Lovely Howz of Badges) - Unsimplifier (6 Chapters Cleared)"
+                    }
+
+                ],
+                "map_locations": [{"map": "Town", "x": 1846, "y": 1187}]
+            },
+            {
+                "name": "Rogueport Center - Toad Bros. Bazaar",
+                "sections": [
+                    {
+                        "name": "Mushroom Purchase",
+                        "ref": "Magical Map/Rogueport Center - Toad Bros. Bazaar/Rogueport Center (Toad Bros. Bazaar) - Mushroom Purchase"
+                    },
+                    {   "name": "Honey Syrup Purchase",
+                        "ref": "Magical Map/Rogueport Center - Toad Bros. Bazaar/Rogueport Center (Toad Bros. Bazaar) - Honey Syrup Purchase"
+                    },
+                    {   "name": "Tasty Tonic Purchase",
+                        "ref": "Magical Map/Rogueport Center - Toad Bros. Bazaar/Rogueport Center (Toad Bros. Bazaar) - Tasty Tonic Purchase"
+                    },
+                    {   "name": "Sleepy Sheep Purchase",
+                        "ref": "Magical Map/Rogueport Center - Toad Bros. Bazaar/Rogueport Center (Toad Bros. Bazaar) - Sleepy Sheep Purchase"
+                    },
+                    {   "name": "Fire Flower Purchase",
+                        "ref": "Magical Map/Rogueport Center - Toad Bros. Bazaar/Rogueport Center (Toad Bros. Bazaar) - Fire Flower Purchase"
+                    },
+                    {   "name": "Fright Mask Purchase",
+                        "ref": "Magical Map/Rogueport Center - Toad Bros. Bazaar/Rogueport Center (Toad Bros. Bazaar) - Fright Mask Purchase"
+                    }
+                ],
+                "map_locations": [{"map": "Town", "x": 1816, "y": 1248}]
+            },
+            {
+                "name": "Rogueport Center - Charlieton",
+                "sections": [
+                    {
+                        "name": "W Emblem Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - W Emblem"
+                    },
+                    {   "name": "Ultra Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Ultra Shroom"
+                    },
+                    {   "name": "Timing Tutor Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Timing Tutor"
+                    },
+                    {   "name": "Stopwatch Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Stopwatch"
+                    },
+                    {   "name": "Slow Go Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Slow Go"
+                    },
+                    {   "name": "Repel Cape Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Repel Cape"
+                    },
+                    {   "name": "Shooting Star Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Shooting Star"
+                    },
+                    {   "name": "Mega Rush Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Mega Rush"
+                    },
+                    {   "name": "Jammin' Jelly Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Jammin' Jelly"
+                    },
+                    {   "name": "Jumpman Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Jumpman"
+                    },
+                    {   "name": "Earthquake Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Earthquake Purchase"
+                    },
+                    {   "name": "Double Pain Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Double Pain Purchase"
+                    },
+                    {   "name": "Boo's Sheet Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Boo's Sheet Purchase"
+                    },
+                    {   "name": "Attack FX G Purchase",
+                        "ref": "Magical Map/Rogueport Center - Charlieton/Rogueport Center (Charlieton) - Attack FX G Purchase"
+                    }
+                ],
+                "map_locations": [{"map": "Town", "x": 1652, "y": 1303}]
+            }
+        ]
+    },
+    {
+        "name": "Rogueport Eastside",
+        "children": [
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Double Dip"}],
+                "map_locations": [{"map": "Town", "x": 2258, "y": 1930}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Shine Sprite 1"}],
+                "map_locations": [{"map": "Town", "x": 2468, "y": 1502}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Shine Sprite 2"}],
+                "map_locations": [{"map": "Town", "x": 2688, "y": 1798}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Star Piece 1"}],
+                "map_locations": [{"map": "Town", "x": 2478, "y": 1608}]
+            },
+            {
+                "sections": [{"name": "Rogueport Eastside - Power Smash", "ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Power Smash"},
+                             {"name": "Rogueport Eastside - Star Piece 2", "ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Star Piece 2"}],
+                "map_locations": [{"map": "Town", "x": 2312, "y": 1685}]
+            },
+            {
+                "sections": [{"name": "Rogueport Eastside - Star Piece 3", "ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Star Piece 3"},
+                             {"name": "Rogueport Eastside - Shine Sprite 3", "ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Shine Sprite 3"}],
+                "map_locations": [{"map": "Town", "x": 2445, "y": 1670}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Star Piece 4"}],
+                "map_locations": [{"map": "Town", "x": 2528, "y": 1668}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Eastside/Rogueport Eastside - Star Piece 5"}],
+                "map_locations": [{"map": "Town", "x": 2573, "y": 1866}]
+            }
+        ]        
+    },
+    {
+        "name": "Rogueport Docks",
+        "children": [
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Docks/Rogueport Docks - Star Piece 1"}],
+                "map_locations": [{"map": "Town", "x": 1543, "y": 1673}]
+            },
+            {
+                "sections": [{"name":"Rogueport Docks - HP Drain", "ref": "Magical Map/Rogueport Docks/Rogueport Docks - HP Drain"},
+                             {"name":"Rogueport Docks - Star Piece 2", "ref": "Magical Map/Rogueport Docks/Rogueport Docks - Star Piece 2"}],
+                "map_locations": [{"map": "Town", "x": 1178, "y": 1533}]
+            }
+        ]
+    },
+    {
+        "name": "Rogeport Blimp Room",
+        "children": [
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Blimp Room/Rogueport Blimp Room - Star Piece 1"}],
+                "map_locations": [{"map": "Town", "x": 1780, "y": 705}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Blimp Room/Rogueport Blimp Room - Star Piece 2"}],
+                "map_locations": [{"map": "Town", "x": 1358, "y": 350}]
+            }
+        ]
+    },
+    {
+        "name": "Rogueport Westside",
+        "children": [
+            {
+                "sections": [{"name":"Rogueport Westside - Blimp Ticket", "ref": "Magical Map/Rogueport Westside/Rogueport Westside - Blimp Ticket"},
+                             {"name":"Rogueport Westside - Train Ticket", "ref": "Magical Map/Rogueport Westside/Rogueport Westside - Train Ticket"}],
+                "map_locations": [{"map": "Town", "x": 1218, "y": 628}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Mushroom"}],
+                "map_locations": [{"map": "Town", "x": 1128, "y": 1008}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Shine Sprite 1"}],
+                "map_locations": [{"map": "Town", "x": 1128, "y": 648}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Shine Sprite 2"}],
+                "map_locations": [{"map": "Town", "x": 1628, "y": 693}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Star Piece 1"}],
+                "map_locations": [{"map": "Town", "x": 1473, "y": 1118}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Star Piece 2"}],
+                "map_locations": [{"map": "Town", "x": 1033, "y": 750}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Star Piece 3"}],
+                "map_locations": [{"map": "Town", "x": 1328, "y": 1013}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Rogueport Westside/Rogueport Westside - Star Piece 4"}],
+                "map_locations": [{"map": "Town", "x": 1233, "y": 833}]
+            },
+            {
+                "name": "Rogueport Westside (Pianta Parlor)",
+                "sections": [
+                    {
+                        "name": "Cake Mix Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Cake Mix"
+                    },
+                    {   "name": "Super Shroom 2 Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Super Shroom 2"
+                    },
+                    {   "name": "Refund Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Refund"
+                    },
+                    {   "name": "Super Appeal Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Super Appeal"
+                    },
+                    {   "name": "Power Jump Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Power Jump"
+                    },
+                    {   "name": "Maple Syrup Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Maple Syrup"
+                    },
+                    {   "name": "HP Plus Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - HP Plus"
+                    },
+                    {   "name": "Power Smash Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Power Smash"
+                    },
+                    {   "name": "Multibounce Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Multibounce"
+                    },
+                    {   "name": "HP Plus P Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - HP Plus P"
+                    },
+                    {   "name": "Gold Bar x3 Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Gold Bar x3"
+                    },
+                    {   "name": "Hammer Throw Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Hammer Throw"
+                    },
+                    {   "name": "Power Rush Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Power Rush"
+                    },
+                    {   "name": "Power Rush P Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Power Rush P"
+                    },
+                    {   "name": "Tornado Jump Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Tornado Jump"
+                    },
+                    {   "name": "Jammin' Jelly Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Jammin' Jelly"
+                    },
+                    {   "name": "Quake Hammer Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Quake Hammer"
+                    },
+                    {   "name": "Ultra Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Pianta Parlor)/Rogueport Westside (Pianta Parlor) - Ultra Shroom"
+                    }
+                ],
+                "map_locations": [{"map": "Town", "x": 1408, "y": 728}]
+            },
+            {
+                "name": "Rogueport Westside (Westside Goods)",
+                "sections": [
+                    {
+                        "name": "Thunder Bolt Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Westside Goods)/Thunder Bolt Purchase"
+                    },
+                    {   "name": "Dizzy Dial Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Westside Goods)/Dizzy Dial Purchase"
+                    },
+                    {   "name": "Life Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Westside Goods)/Life Shroom Purchase"
+                    },
+                    {   "name": "Dried Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Westside Goods)/Dried Shroom Purchase"
+                    },
+                    {   "name": "Volt Shroom Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Westside Goods)/Volt Shroom Purchase"
+                    },
+                    {   "name": "Fright Mask Purchase",
+                        "ref": "Magical Map/Rogueport Westside (Westside Goods)/Super Shroom Purchase"
+                    }
+                ],
+                "map_locations": [{"map": "Town", "x": 1098, "y": 768}]
+            }
+        ]
+    }
+]

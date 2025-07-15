@@ -1,13 +1,12 @@
 {
     "tracker_broadcast": {
         "type": "container",
-        "orientation": "vertical",
         "margin": "0,0",
         "content": [
             {
         "type": "itemgrid",
         "h_alignment": "left",
-        "item_margin": "4,4,4,4",
+        "item_margin": "4,4",
         "item_size": "50,50",
         "rows":[
                             [
@@ -106,7 +105,7 @@
                                 "F",
                                 "Cookbook",
                                 "UpArrow"
-                            ],
+                            ]
                 ]
             }
         ]

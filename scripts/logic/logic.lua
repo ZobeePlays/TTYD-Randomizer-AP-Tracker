@@ -35,11 +35,11 @@ function pit()
 	end
 
 function sewerwest()
-	return (has("ContactLens") and has("PaperCurse")) or (has("UltraHammer") and has("PaperCurse")) or (has("UltraBoots") and (yoshi())) or (tube()) or (has("Bobbery"))
+	return ((has("ContactLens") or has("west_open")) and has("PaperCurse")) or (has("UltraHammer") and has("PaperCurse")) or (tube()) or (has("Bobbery"))
 	end
 
 function sewerwestground()
-	return (has("ContactLens") and has("PaperCurse")) or (has("UltraHammer") and has("PaperCurse")) or (has("UltraBoots") and (yoshi())) or (tube()) or (has("Bobbery"))
+	return ((has("ContactLens") or has("west_open")) and has("PaperCurse")) or has("UltraHammer") or (tube()) or (has("Bobbery"))
 	end
 
 function ttyd()
@@ -47,7 +47,7 @@ function ttyd()
 	end
 
 function twilight_town()
-	return ((silly()) and ((yoshi()) or has("UltraBoots")))
+	return (sewerwest() and yoshi()) or (has("UltraBoots") and sewerwestground())
 	end
 
 function steeple()
@@ -78,15 +78,11 @@ function pirates_grotto()
 	return has("Bobbery") and has("SkullGem") and (yoshi()) and has("SuperBoots")
 	end
 
-function silly()
-	return (has("ContactLens") and has("PaperCurse")) or has("Bobbery") or (tube()) or (has("UltraHammer") and has("PaperCurse"))
-	end
-
-function poshley_heights()
+function poshley_heights() -- General regional access to Poshley Heights, not the Sanctum.
 	return ((poshleysanctum())) or (has("UltraHammer") and has("SuperBoots"))
 	end
 
-function poshleysanctum()
+function poshleysanctum()  -- Access to the Sanctum is gated by the chapter 6 story, which is required to access the sanctum, as opposed to poshley_heights.
 	return has("TrainTicket") and (westside()) and (riverside()) and has("StationKey1") and has("ElevatorKey") and has("UltraBoots")
 	end
 
@@ -103,7 +99,7 @@ function palaceright()
 	end
 
 function palace()
-	return (ttyd()) and (((stars(0)) and has("0ChapterClears")) or ((stars(1)) and has("1ChapterClears")) or ((stars(2)) and has("2ChapterClears")) or ((stars(3)) and has("3ChapterClears")) or ((stars(4)) and has("4ChapterClears")) or ((stars(5)) and has("5ChapterClears")) or ((stars(6)) and has("6ChapterClears")) or ((stars(7)) and has("7ChapterClears")))
+	return (ttyd()) and (((stars(0)) and has("Chapter0")) or ((stars(1)) and has("Chapter1")) or ((stars(2)) and has("Chapter2")) or ((stars(3)) and has("Chapter3")) or ((stars(4)) and has("Chapter4")) or ((stars(5)) and has("Chapter5")) or ((stars(6)) and has("Chapter6")) or ((stars(7)) and has("Chapter7")))
 	end
 
 function tenpunis()
@@ -112,4 +108,12 @@ function tenpunis()
 
 function hundredpunis()
 	return has("PuniOrb") and has("RedKey") and has("BlueKey")
+	end
+
+function HRGlvl1()
+	return has("GlitchedLogic")
+	end
+
+function HRGlvl2()
+	return (has("SuperBoots") and has("GlitchedLogic"))
 	end

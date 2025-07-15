@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Path to Fahr Outpost",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Entrance - Double Dip P"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 675, "y": 289}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Entrance - Star Piece"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 386, "y": 151}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost West Enemy Room - Shine Sprite"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 810, "y": 499}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost West Enemy Room - Star Piece"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 1014, "y": 683}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost East Enemy Room - HP Plus P"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 1809, "y": 1061}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost East Enemy Room - Star Piece"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 1845, "y": 1258}]
+            }                 
+        ]
+    },
+    {
+        "name": "Fahr Outpost",
+        "children": [            
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Town Outskirts - Star Piece"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 1944, "y": 1560}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Town - Inn Coupon"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 2739, "y": 1734}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Town - Shine Sprite"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 3025, "y": 1948}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Town - Space Food"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 2722, "y": 1593}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Town - Star Piece 1"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 2749, "y": 1879}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Fahr Outpost/Fahr Outpost Town - Star Piece 2"}],
+                "map_locations": [{"map": "Fahr Outpost", "x": 3015, "y": 1816}]
+            },
+            {
+                "name": "Fahr Outpost - Northwinds Mart",
+                "sections": [
+                    {
+                        "name": "Shooting Star Purchase",
+                        "ref": "Magical Map/Fahr Outpost - Northwinds Mart/Shooting Star Purchase"
+                    },
+                    {   "name": "Ice Storm Purchase",
+                        "ref": "Magical Map/Fahr Outpost - Northwinds Mart/Ice Storm Purchase"
+                    },
+                    {   "name": "Ruin Powder Purchase",
+                        "ref": "Magical Map/Fahr Outpost - Northwinds Mart/Ruin Powder Purchase"
+                    },
+                    {   "name": "Stopwatch Purchase",
+                        "ref": "Magical Map/Fahr Outpost - Northwinds Mart/Stopwatch Purchase"
+                    },
+                    {   "name": "Maple Syrup Purchase",
+                        "ref": "Magical Map/Fahr Outpost - Northwinds Mart/Maple Syrup Purchase"
+                    },
+                    {   "name": "Super Shroom Purchase",
+                        "ref": "Magical Map/Fahr Outpost - Northwinds Mart/Super Shroom Purchase"
+                    }
+                ],
+                "map_locations": [{"map": "Fahr Outpost", "x": 2968, "y": 1685}]
+            }             
+        ]
+    }
+]
