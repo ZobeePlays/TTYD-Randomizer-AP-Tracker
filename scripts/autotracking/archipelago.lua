@@ -165,9 +165,8 @@ function onMapChange(key, value, old)
     local currentObject = currentCode and Tracker:FindObjectForCode(currentCode)
     local newObject
 
-    if key == cur_room then
+    if key == cur_room and Tracker:FindObjectForCode(currentCode) then
         newObject = Tracker:FindObjectForCode(newCode)
-
 
         if currentObject and currentObject.Active then
             currentObject.Active = false
