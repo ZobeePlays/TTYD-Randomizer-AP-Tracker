@@ -935,7 +935,7 @@
     {
         "name": "Chapter 8",
         "type": "progressive",
-        "initial_stage_idx": 0,
+        "initial_stage_idx": 1,
         "allow_disabled": false,
         "stages": [
             {
@@ -994,7 +994,7 @@
         "name": "Auto Tab Switching",
         "type": "toggle",
         "initial_active_state": true,
-        "img": "images/items/MagicalMapHD2.png",
+        "img": "images/items/MagicalMap.png",
         "codes": "AutoTabOn"
     },
     {
@@ -1024,7 +1024,26 @@
             }
         ]
     },
-        {
+    {
+        "name": "Tattlesanity",
+        "type": "progressive",
+        "allow_disabled":false,
+        "stages":[
+            {
+                "name": "Tattlesanity off",
+                "img": "images/items/PeekabooDim.png",
+                "codes": "TattlesanityOff, Tattlesanity",
+                "inherit_codes": false
+            },
+            {
+                "name": "Tattlesanity on",
+                "img": "images/items/Peekaboo.png",
+                "codes": "TattlesanityOn, Tattlesanity",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
         "name": "PowerJump",
         "type": "consumable",
         "max_quantity": 200,

@@ -78,11 +78,11 @@ function pirates_grotto()
 	return has("Bobbery") and has("SkullGem") and (yoshi()) and has("SuperBoots")
 	end
 
-function poshley_heights()
+function poshley_heights() -- General regional access to Poshley Heights, not the Sanctum.
 	return ((poshleysanctum())) or (has("UltraHammer") and has("SuperBoots"))
 	end
 
-function poshleysanctum()
+function poshleysanctum()  -- Access to the Sanctum is gated by the chapter 6 story, which is required to access the sanctum, as opposed to poshley_heights.
 	return has("TrainTicket") and (westside()) and (riverside()) and has("StationKey1") and has("ElevatorKey") and has("UltraBoots")
 	end
 

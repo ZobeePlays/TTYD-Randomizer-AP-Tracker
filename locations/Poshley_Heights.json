@@ -27,10 +27,16 @@
                 "map_locations": [{"map": "Poshley Heights", "x": 2610, "y": 1830}]
             },
             {
-                "sections": [{"name": "Poshley Heights Sanctum Altar - L Emblem","ref": "Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - L Emblem"},
-                {"name": "Poshley Heights Sanctum Altar - Shine Sprite","ref": "Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - Shine Sprite"},
-                {"name": "Poshley Heights Sanctum Altar - Garnet Star","ref": "Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - Garnet Star"}],
+                "sections": [{"ref": "Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - Garnet Star"}],
                 "map_locations": [{"map": "Poshley Heights", "x": 2574, "y": 189}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - Shine Sprite"}],
+                "map_locations": [{"map": "Poshley Heights", "x": 2310, "y": 801}]
+            },
+            {
+                "sections": [{"ref": "Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - L Emblem"}],
+                "map_locations": [{"map": "Poshley Heights", "x": 2391, "y": 99}]
             },
             {
                 "sections": [{"ref": "Magical Map/Poshley Heights/Poshley Heights Downtown Pasta Stand - Fresh Pasta Purchase"}],

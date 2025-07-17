@@ -142,5 +142,11 @@
                 "location_size": 32,
                 "location_border_thickness": 2,
                 "img": "images/maps/Chapter 8/pos_right.png"
+            },
+            {
+                "name": "Tattle Log",
+                "location_size": 32,
+                "location_border_thickness": 2,
+                "img": "images/maps/FulltattleLog.png"
             }
 ]

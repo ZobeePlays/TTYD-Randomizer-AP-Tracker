@@ -74,5 +74,14 @@ SLOT_CODES =
       [0] = "0", -- False
       [1] = "1", -- True
     }
+  },
+  tattlesanity =
+  {
+    code = "tattlesanity",
+    mapping =
+    {
+      [0] = "0", -- False
+      [1] = "1", -- True
+    }
   }
 }

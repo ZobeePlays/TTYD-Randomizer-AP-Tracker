@@ -19,6 +19,7 @@ Tracker:AddLocations("locations/Fhar_Outpost.json")
 Tracker:AddLocations("locations/The_Moon.json")
 Tracker:AddLocations("locations/Palace_of_Shadow.json")
 Tracker:AddLocations("locations/X-Naut_Fortress.json")
+Tracker:AddLocations("locations/Tattle_Log.json")
 
 --Player Position Tracking
 Tracker:AddLocations("locations/Player_Positions.json")

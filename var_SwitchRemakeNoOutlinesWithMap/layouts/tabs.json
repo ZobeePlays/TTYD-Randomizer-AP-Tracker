@@ -288,6 +288,15 @@
                         }
                     ]
                 }
+            },
+            {
+                "title": "Tattle Log",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tattle Log"
+                    ]
+                }
             }
         ]
     },
@@ -578,6 +587,15 @@
                                 ]
                             }
                         }
+                    ]
+                }
+            },
+            {
+                "title": "Tattle Log",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tattle Log"
                     ]
                 }
             }

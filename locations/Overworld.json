@@ -4,9 +4,7 @@
                 "chest_unopened_img": "/images/items/YBlock.png",
                 "chest_opened_img": "/images/items/YBlockOpen.png",
         "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "access_rules": [""],
         "children": [
             {
                 "name": "Rogueport Center",
@@ -597,7 +595,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["[PaperCurse],$yoshi","PaperCurse,[$yoshi]"],
+                        "access_rules": ["PaperCurse,[$yoshi]","$yoshi"],
                         "item_count": 1
                     },
                     {
@@ -767,7 +765,7 @@
                     {
                         "name": "Rogueport Westside - Train Ticket",
                         "visibility_rules": [""],
-                        "access_rules": ["WeddingRing"],
+                        "access_rules": ["WeddingRing,$keelhaul_key"],
                         "item_count": 1
                     },
                     {
@@ -1345,7 +1343,7 @@
                     },
                     {
                         "name": "Great Tree Entrance - Emerald Star",
-                        "chest_unopened_img": "/images/items/EmeraldStarHD2.png",
+                        "chest_unopened_img": "/images/items/EmeraldStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$hundredpunis,Koops"],
@@ -1560,7 +1558,7 @@
                     {
                         "name": "Rogueport Sewers Spania Room - Defend Plus",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,Flurrie,BoatCurse,$yoshi","$sewerwest,Flurrie,BoatCurse,UltraBoots,Koops"],
+                        "access_rules": ["$sewerwestground,Flurrie,BoatCurse,$yoshi","$sewerwestground,Flurrie,BoatCurse,UltraBoots,Koops"],
                         "item_count": 1
                     },
                     {
@@ -1568,7 +1566,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,BoatCurse,Flurrie"],
+                        "access_rules": ["$sewerwestground,BoatCurse,Flurrie"],
                         "item_count": 1
                     },
                     {
@@ -1576,7 +1574,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,BoatCurse,Flurrie,UltraBoots"],
+                        "access_rules": ["$sewerwestground,BoatCurse,Flurrie,UltraBoots"],
                         "item_count": 1
                     },
                     {
@@ -1584,7 +1582,7 @@
                         "chest_unopened_img": "/images/items/ShineSpriteClosed.png",
                         "chest_opened_img": "/images/items/ShineSpriteOpen.png",
                         "visibility_rules": [""],
-                        "access_rules": ["$sewerwest,BoatCurse,Flurrie"],
+                        "access_rules": ["$sewerwestground,BoatCurse,Flurrie"],
                         "item_count": 1
                     },
                     {
@@ -1694,6 +1692,26 @@
                         "visibility_rules": [""],
                         "access_rules": ["$pit"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "ref": "Tattle Log/Goomba/"
+                    },
+                    {
+                        "name": "Tattle: Paaragoomba",
+                        "ref": "Tattle Log/Paragoomba/"
+                    },
+                    {
+                        "name": "Tattle: Spiky Goomba",
+                        "ref": "Tattle Log/Spiky Goomba/"
+                    },
+                    {
+                        "name": "Tattle: Blooper",
+                        "ref": "Tattle Log/Blooper/"
+                    },
+                    {
+                        "name": "Tattle: Spinia",
+                        "ref": "Tattle Log/Spinia/"
                     }
                 ],
                 "map_locations": [
@@ -1819,6 +1837,14 @@
                         "visibility_rules": [""],
                         "access_rules": ["$sewerwest","$sewerwestground,UltraBoots,$yoshi"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Spania",
+                        "ref": "Tattle Log/Spania/"
+                    },
+                    {
+                        "name": "Tattle: Spunia",
+                        "ref": "Tattle Log/Spunia/"
                     }
 		],
                 "map_locations": [
@@ -2276,7 +2302,7 @@
                     {
                         "name": "Glitzville Minor-League Room - Yoshi",
                         "visibility_rules": [""],
-                        "access_rules": ["SuperBoots,PlaneCurse"],
+                        "access_rules": ["SuperBoots,PlaneCurse","$yoshi,[SuperBoots],[PlaneCurse]"],
                         "item_count": 1
                     },
                     {
@@ -2301,7 +2327,7 @@
                     },
                     {
                         "name": "Glitzville Arena - Gold Star",
-                        "chest_unopened_img": "/images/items/GoldStarHD2.png",
+                        "chest_unopened_img": "/images/items/GoldStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Flurrie,SuperHammer"],
@@ -2875,7 +2901,7 @@
                     },
                     {
                         "name": "Hooktail's Castle Hooktail's Room - Diamond Star",
-                        "chest_unopened_img": "/images/items/DiamondStarHD2.png",
+                        "chest_unopened_img": "/images/items/DiamondStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$htcastle,PaperCurse,PlaneCurse,Koops,CastleKey4","$htcastle,PaperCurse,PlaneCurse,CastleKey4,[Koops],$yoshi,Bobbery"],
@@ -3359,7 +3385,7 @@
                     },
                     {
                         "name": "Creepy Steeple Upper Room - Ruby Star",
-                        "chest_unopened_img": "/images/items/RubyStarHD2.png",
+                        "chest_unopened_img": "/images/items/RubyStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["SteepleKey1,TheLetterP"],
@@ -3797,7 +3823,7 @@
                     },
                     {
                         "name": "Pirate's Grotto Cortez' Hoard - Sapphire Star",
-                        "chest_unopened_img": "/images/items/SapphireStarHD2.png",
+                        "chest_unopened_img": "/images/items/SapphireStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Bobbery,BoatCurse,GateHandle,PlaneCurse"],
@@ -3877,7 +3903,7 @@
                     },
                     {
                         "name": "Poshley Heights Sanctum Altar - Garnet Star",
-                        "chest_unopened_img": "/images/items/GarnetStarHD2.png",
+                        "chest_unopened_img": "/images/items/GarnetStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$poshleysanctum,PlaneCurse,UltraBoots"],
@@ -4030,7 +4056,7 @@
                     {
                         "name": "Riverside Station Ultra Boots Room - Elevator Key",
                         "visibility_rules": [""],
-                        "access_rules": ["UltraBoots,Flurrie,StationKey1,StationKey2,$tube","Flurrie,StationKey1,StationKey2,$tube,{}"],
+                        "access_rules": ["UltraBoots,Flurrie,StationKey1,StationKey2,$tube,$yoshi","Flurrie,StationKey1,StationKey2,$tube,{}"],
                         "item_count": 1
                     }
 		],
@@ -4544,7 +4570,7 @@
                     {
                         "name": "X-Naut Fortress Teleporter Room - Cog",
                         "visibility_rules": [""],
-                        "access_rules": ["ElevatorKey1,UltraBoots,PaperCurse"],
+                        "access_rules": ["ElevatorKey1,UltraBoots,PaperCurse","ElevatorKey1,{}"],
                         "item_count": 1
                     },
                     {
@@ -4589,7 +4615,7 @@
                     },
                     {
                         "name": "X-Naut Fortress Boss Room - Crystal Star",
-                        "chest_unopened_img": "/images/items/CrystalStarHD2.png",
+                        "chest_unopened_img": "/images/items/CrystalStar.png",
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["ElevatorKey1,ElevatorKey2,CardKey1,CardKey2,CardKey3,CardKey4,PaperCurse,Vivian,PlaneCurse"],
@@ -4919,7 +4945,7 @@
             },
             {
                 "name": "Shadow Queen",
-                "chest_unopened_img": "/images/items/StarKeyHD2.png",
+                "chest_unopened_img": "/images/items/StarKey.png",
                 "chest_opened_img": "/images/items/ClosedStar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
