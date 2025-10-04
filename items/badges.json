@@ -1,6 +1,6 @@
 [
   {
-        "name": "PowerJump",
+        "name": "Power Jump",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PowerJump.png",
@@ -16,7 +16,7 @@
         "codes": "Multibounce"
     },
     {
-        "name": "ShrinkStomp",
+        "name": "Shrink Stomp",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/ShrinkStomp.png",
@@ -24,7 +24,7 @@
         "codes": "ShrinkStomp"
     },
     {
-        "name": "SleepyStomp",
+        "name": "Sleepy Stomp",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/SleepyStomp.png",
@@ -32,7 +32,7 @@
         "codes": "SleepyStomp"
     },
     {
-        "name": "SoftStomp",
+        "name": "Soft Stomp",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/SoftStomp.png",
@@ -40,7 +40,7 @@
         "codes": "SoftStomp"
     },
     {
-        "name": "TornadoJump",
+        "name": "Tornado Jump",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/TornadoJump.png",
@@ -48,7 +48,7 @@
         "codes": "TornadoJump"
     },
     {
-        "name": "PowerBounce",
+        "name": "Power Bounce",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PowerBounce.png",
@@ -56,7 +56,7 @@
         "codes": "PowerBounce"
     },
     {
-        "name": "PowerSmash",
+        "name": "Power Smash",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PowerSmash.png",
@@ -64,7 +64,7 @@
         "codes": "PowerSmash"
     },
     {
-        "name": "PiercingBlow",
+        "name": "Piercing Blow",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PiercingBlow.png",
@@ -72,7 +72,7 @@
         "codes": "PiercingBlow"
     },
     {
-        "name": "HammerThrow",
+        "name": "Hammer Throw",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HammerThrow.png",
@@ -80,7 +80,7 @@
         "codes": "HammerThrow"
     },
     {
-        "name": "HeadRattle",
+        "name": "Head Rattle",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HeadRattle.png",
@@ -88,7 +88,7 @@
         "codes": "HeadRattle"
     },
     {
-        "name": "IceSmash",
+        "name": "Ice Smash",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/IceSmash.png",
@@ -96,7 +96,7 @@
         "codes": "IceSmash"
     },
     {
-        "name": "QuakeHammer",
+        "name": "Quake Hammer",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/QuakeHammer.png",
@@ -104,7 +104,7 @@
         "codes": "QuakeHammer"
     },
     {
-        "name": "FireDrive",
+        "name": "Fire Drive",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FireDrive.png",
@@ -128,7 +128,7 @@
         "codes": "ChargeP"
     },
     {
-        "name": "DoubleDip",
+        "name": "Double Dip",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DoubleDip.png",
@@ -136,7 +136,7 @@
         "codes": "DoubleDip"
     },
     {
-        "name": "DoubleDipP",
+        "name": "Double Dip P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DoubleDipP.png",
@@ -144,7 +144,7 @@
         "codes": "DoubleDipP"
     },
     {
-        "name": "HPPlus",
+        "name": "HP Plus",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HPPlus.png",
@@ -152,7 +152,7 @@
         "codes": "HPPlus"
     },
     {
-        "name": "HPPlusP",
+        "name": "HP Plus P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HPPlusP.png",
@@ -160,7 +160,7 @@
         "codes": "HPPlusP"
     },
     {
-        "name": "FPPlus",
+        "name": "FP Plus",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FPPlus.png",
@@ -168,7 +168,7 @@
         "codes": "FPPlus"
     },
     {
-        "name": "PowerPlus",
+        "name": "Power Plus",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PowerPlus.png",
@@ -176,7 +176,7 @@
         "codes": "PowerPlus"
     },
     {
-        "name": "PowerPlusP",
+        "name": "Power Plus P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PowerPlusP.png",
@@ -184,7 +184,7 @@
         "codes": "PowerPlusP"
     },
     {
-        "name": "AllorNothing",
+        "name": "All or Nothing",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/AllorNothing.png",
@@ -208,7 +208,7 @@
         "codes": "Hammerman"
     },
     {
-        "name": "PupDdown",
+        "name": "P-Up, D-Down",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PupDdown.png",
@@ -216,7 +216,7 @@
         "codes": "PupDdown"
     },
     {
-        "name": "PupDdownP",
+        "name": "P-Up, D-Down P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PupDdownP.png",
@@ -224,7 +224,7 @@
         "codes": "PupDdownP"
     },
     {
-        "name": "PdownDup",
+        "name": "P-Down, D-Up",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PdownDup.png",
@@ -232,7 +232,7 @@
         "codes": "PdownDup"
     },
     {
-        "name": "PdownDupP",
+        "name": "P-Down, D-Up P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PdownDupP.png",
@@ -240,7 +240,7 @@
         "codes": "PdownDupP"
     },
     {
-        "name": "DamageDodge",
+        "name": "Damage Dodge",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DamageDodge.png",
@@ -248,7 +248,7 @@
         "codes": "DamageDodge"
     },
     {
-        "name": "DamageDodgeP",
+        "name": "Damage Dodge P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DamageDodgeP.png",
@@ -256,7 +256,7 @@
         "codes": "DamageDodgeP"
     },
     {
-        "name": "DefendPlus",
+        "name": "Defend Plus",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DefendPlus.png",
@@ -264,7 +264,7 @@
         "codes": "DefendPlus"
     },
     {
-        "name": "DefendPlusP",
+        "name": "Defend Plus P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DefendPlusP.png",
@@ -272,7 +272,7 @@
         "codes": "DefendPlusP"
     },
     {
-        "name": "DoublePain",
+        "name": "Double Pain",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/DoublePain.png",
@@ -280,7 +280,7 @@
         "codes": "DoublePain"
     },
     {
-        "name": "PowerRush",
+        "name": "Power Rush",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PowerRush.png",
@@ -296,7 +296,7 @@
         "codes": "PowerRushP"
     },
     {
-        "name": "LastStand",
+        "name": "Last Stand",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/LastStand.png",
@@ -304,7 +304,7 @@
         "codes": "LastStand"
     },
     {
-        "name": "LastStand P",
+        "name": "Last Stand P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/LastStandP.png",
@@ -312,7 +312,7 @@
         "codes": "LastStandP"
     },
     {
-        "name": "MegaRush",
+        "name": "Mega Rush",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/MegaRush.png",
@@ -320,7 +320,7 @@
         "codes": "MegaRush"
     },
     {
-        "name": "MegaRushP",
+        "name": "Mega Rush P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/MegaRushP.png",
@@ -328,7 +328,7 @@
         "codes": "MegaRushP"
     },
     {
-        "name": "CloseCall",
+        "name": "Close Call",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/CloseCall.png",
@@ -344,7 +344,7 @@
         "codes": "CloseCallP"
     },
     {
-        "name": "PrettyLucky",
+        "name": "Pretty Lucky",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PrettyLucky.png",
@@ -352,7 +352,7 @@
         "codes": "PrettyLucky"
     },
     {
-        "name": "PrettyLuckyP",
+        "name": "Pretty Lucky P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PrettyLuckyP.png",
@@ -360,7 +360,7 @@
         "codes": "PrettyLuckyP"
     },
     {
-        "name": "LuckyDay",
+        "name": "Lucky Day",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/LuckyDay.png",
@@ -368,7 +368,7 @@
         "codes": "LuckyDay"
     },
     {
-        "name": "LuckyStart",
+        "name": "Lucky Start",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/LuckyStart.png",
@@ -376,7 +376,7 @@
         "codes": "LuckyStart"
     },
     {
-        "name": "HappyHeart",
+        "name": "Happy Heart",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HappyHeart.png",
@@ -384,7 +384,7 @@
         "codes": "HappyHeart"
     },
     {
-        "name": "HappyHeartP",
+        "name": "Happy Heart P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HappyHeartP.png",
@@ -392,7 +392,7 @@
         "codes": "HappyHeartP"
     },
     {
-        "name": "HappyFlower",
+        "name": "Happy Flower",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HappyFlower.png",
@@ -400,7 +400,7 @@
         "codes": "HappyFlower"
     },
     {
-        "name": "FlowerSaver",
+        "name": "Flower Saver",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FlowerSaver.png",
@@ -408,7 +408,7 @@
         "codes": "FlowerSaver"
     },
     {
-        "name": "FlowerSaverP",
+        "name": "Flower Saver P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FlowerSaverP.png",
@@ -416,7 +416,7 @@
         "codes": "FlowerSaverP"
     },
     {
-        "name": "PityFlower",
+        "name": "Pity Flower",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/PityFlower.png",
@@ -424,7 +424,7 @@
         "codes": "PityFlower"
     },
     {
-        "name": "HPDrain",
+        "name": "HP Drain",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HPDrain.png",
@@ -432,7 +432,7 @@
         "codes": "HPDrain"
     },
     {
-        "name": "HPDrain P",
+        "name": "HP Drain P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HPDrainP.png",
@@ -440,7 +440,7 @@
         "codes": "HPDrainP"
     },
     {
-        "name": "FPDrain",
+        "name": "FP Drain",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FPDrain.png",
@@ -448,7 +448,7 @@
         "codes": "FPDrain"
     },
     {
-        "name": "HeartFinder",
+        "name": "Heart Finder",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/HeartFinder.png",
@@ -456,7 +456,7 @@
         "codes": "HeartFinder"
     },
     {
-        "name": "FlowerFinder",
+        "name": "Flower Finder",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FlowerFinder.png",
@@ -464,7 +464,7 @@
         "codes": "FlowerFinder"
     },
     {
-        "name": "ItemHog",
+        "name": "Item Hog",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/ItemHog.png",
@@ -472,7 +472,7 @@
         "codes": "ItemHog"
     },
     {
-        "name": "IcePower",
+        "name": "Ice Power",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/IcePower.png",
@@ -480,7 +480,7 @@
         "codes": "IcePower"
     },
     {
-        "name": "SpikeShield",
+        "name": "Spike Shield",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/SpikeShield.png",
@@ -488,7 +488,7 @@
         "codes": "SpikeShield"
     },
     {
-        "name": "ZapTap",
+        "name": "Zap Tap",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/ZapTap.png",
@@ -496,7 +496,7 @@
         "codes": "ZapTap"
     },
     {
-        "name": "ReturnPostage",
+        "name": "Return Postage",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/ReturnPostage.png",
@@ -504,7 +504,7 @@
         "codes": "ReturnPostage"
     },
     {
-        "name": "FeelingFine",
+        "name": "Feeling Fine",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FeelingFine.png",
@@ -512,7 +512,7 @@
         "codes": "FeelingFine"
     },
     {
-        "name": "FeelingFineP",
+        "name": "Feeling Fine P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FeelingFineP.png",
@@ -528,7 +528,7 @@
         "codes": "Refund"
     },
     {
-        "name": "MoneyMoney",
+        "name": "Money Money",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/MoneyMoney.png",
@@ -536,7 +536,7 @@
         "codes": "MoneyMoney"
     },
     {
-        "name": "SuperAppeal",
+        "name": "Super Appeal",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/SuperAppeal.png",
@@ -544,7 +544,7 @@
         "codes": "SuperAppeal"
     },
     {
-        "name": "SuperAppealP",
+        "name": "Super Appeal P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/SuperAppealP.png",
@@ -560,7 +560,7 @@
         "codes": "Peekaboo"
     },
     {
-        "name": "QuickChange",
+        "name": "Quick Change",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/QuickChange.png",
@@ -568,7 +568,7 @@
         "codes": "QuickChange"
     },
     {
-        "name": "TimingTutor",
+        "name": "Timing Tutor",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/TimingTutor.png",
@@ -592,7 +592,7 @@
         "codes": "Unsimplifier"
     },
     {
-        "name": "ChillOut",
+        "name": "Chill Out",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/ChillOut.png",
@@ -600,7 +600,7 @@
         "codes": "ChillOut"
     },
     {
-        "name": "FirstAttack",
+        "name": "First Attack",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/FirstAttack.png",
@@ -608,7 +608,7 @@
         "codes": "FirstAttack"
     },
     {
-        "name": "BumpAttack",
+        "name": "Bump Attack",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/BumpAttack.png",
@@ -616,7 +616,7 @@
         "codes": "BumpAttack"
     },
     {
-        "name": "AttackFXR",
+        "name": "Attack FX R",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/AttackFXR.png",
@@ -624,7 +624,7 @@
         "codes": "AttackFXR"
     },
     {
-        "name": "AttackFXY",
+        "name": "Attack FX Y",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/AttackFXY.png",
@@ -632,7 +632,7 @@
         "codes": "AttackFXY"
     },
     {
-        "name": "AttackFXB",
+        "name": "Attack FX B",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/AttackFXB.png",
@@ -640,7 +640,7 @@
         "codes": "AttackFXB"
     },
     {
-        "name": "AttackFXG",
+        "name": "Attack FX G",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/AttackFXG.png",
@@ -648,7 +648,7 @@
         "codes": "AttackFXG"
     },
     {
-        "name": "AttackFXP",
+        "name": "Attack FX P",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/AttackFXP.png",
@@ -656,7 +656,7 @@
         "codes": "AttackFXP"
     },
     {
-        "name": "LEmblem",
+        "name": "L Emblem",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/LEmblem.png",
@@ -664,7 +664,7 @@
         "codes": "LEmblem"
     },
     {
-        "name": "WEmblem",
+        "name": "W Emblem",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/WEmblem.png",
@@ -672,7 +672,7 @@
         "codes": "WEmblem"
     },
     {
-        "name": "SlowGo",
+        "name": "Slow Go",
         "type": "consumable",
         "max_quantity": 200,
         "img": "images/items/SlowGo.png",

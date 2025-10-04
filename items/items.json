@@ -67,7 +67,7 @@
         ]
     },
     {
-        "name": "Madame Flurrie",
+        "name": "Flurrie",
         "type": "toggle",
         "img": "images/items/Flurrie.png",
         "img_mods": "",
@@ -95,28 +95,28 @@
         "codes": "Mowz"
     },
     {
-        "name": "Plane Curse",
+        "name": "Plane Mode",
         "type": "toggle",
         "img": "images/items/Plane.png",
         "img_mods": "",
         "codes": "PlaneCurse"
     },
     {
-        "name": "Paper Curse",
+        "name": "Paper Mode",
         "type": "toggle",
         "img": "images/items/Paper.png",
         "img_mods": "",
         "codes": "PaperCurse"
     },
     {
-        "name": "Tube Curse",
+        "name": "Tube Mode",
         "type": "toggle",
         "img": "images/items/Tube.png",
         "img_mods": "",
         "codes": "TubeCurse"
     },
     {
-        "name": "Boat Curse",
+        "name": "Boat Mode",
         "type": "toggle",
         "img": "images/items/Boat.png",
         "img_mods": "",
@@ -298,16 +298,10 @@
         "codes": "ShopKey"
     },
     {
-        "name": "Steeple Key 1 ",
+        "name": "Steeple Key",
         "type": "toggle",
         "img": "images/items/SteepleKey1.png",
         "codes": "SteepleKey1"
-    },
-    {
-        "name": "Steeple Key 2",
-        "type": "toggle",
-        "img": "images/items/SteepleKey2.png",
-        "codes": "SteepleKey2"
     },
     {
         "name": "Superbombomb",
@@ -441,7 +435,7 @@
         "codes": "StationKey2"
     },
     {
-        "name": "Elevator Key",
+        "name": "Elevator Key (Station)",
         "type": "toggle",
         "img": "images/items/ElevatorKey.png",
         "img_mods": "",
@@ -482,14 +476,14 @@
         "codes": "CardKey4"
     },
     {
-        "name": "Elevator Key (Card 1)",
+        "name": "Elevator Key 1",
         "type": "toggle",
         "img": "images/items/ElevatorKey1.png",
         "img_mods": "",
         "codes": "ElevatorKey1"
     },
     {
-        "name": "Elevator Key (Card 2)",
+        "name": "Elevator Key 2",
         "type": "toggle",
         "img": "images/items/ElevatorKey2.png",
         "img_mods": "",
@@ -679,53 +673,53 @@
         ]
     },
     {
-        "name": "Palace Key (Riddle Tower)",
+        "name": "Palace Key (Tower)",
         "type": "progressive",
         "stages": [
             {
-                "name": "1 Palace Key (Riddle Tower)",
+                "name": "1 Palace Key (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay1.png,",
                 "codes": "PalaceKey(RiddleTower)1, PalaceKey(RiddleTower)"
             },
             {
-                "name": "2 Palace Keys (Riddle Tower)",
+                "name": "2 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay2.png,",
                 "codes": "PalaceKey(RiddleTower)2, PalaceKey(RiddleTower)"
             },
             {
-                "name": "3 Palace Keys (Riddle Tower)",
+                "name": "3 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay3.png,",
                 "codes": "PalaceKey(RiddleTower)3, PalaceKey(RiddleTower)"
             },
             {
-                "name": "4 Palace Keys (Riddle Tower)",
+                "name": "4 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay4.png,",
                 "codes": "PalaceKey(RiddleTower)4, PalaceKey(RiddleTower)"
             },
             {
-                "name": "5 Palace Keys (Riddle Tower)",
+                "name": "5 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay5.png,",
                 "codes": "PalaceKey(RiddleTower)5, PalaceKey(RiddleTower)"
             },
             {
-                "name": "6 Palace Keys (Riddle Tower)",
+                "name": "6 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay6.png,",
                 "codes": "PalaceKey(RiddleTower)6, PalaceKey(RiddleTower)"
             },
             {
-                "name": "7 Palace Keys (Riddle Tower)",
+                "name": "7 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/Overlay7.png,",
                 "codes": "PalaceKey(RiddleTower)7, PalaceKey(RiddleTower)"
             },
             {
-                "name": "8 Palace Keys (Riddle Tower)",
+                "name": "8 Palace Keys (Tower)",
                 "img": "images/items/PalaceKey(RiddleTower).png",
                 "img_mods": "overlay|/images/Items/GreenOverlay8.png,",
                 "codes": "PalaceKey(RiddleTower)8, PalaceKey(RiddleTower)"
