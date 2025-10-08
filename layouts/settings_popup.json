@@ -21,10 +21,11 @@
                                 "HiddenOn",
                                 "Pit_Items",
                                 "palace_skip",
-                                "Chapter_Clears",
+                                "DoorReq",
                                 "open_westside",
                                 "GlitchedLogic",
                                 "Tattlesanity",
+                                "Goal",
                                 "AutoTabOn",
                                 "PlayerTrackOn"
                             ]

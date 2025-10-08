@@ -15,56 +15,56 @@
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay0.png,",
                 "inherit_codes": false,
-                "codes": "Chapter0, Chapter_Clears"
+                "codes": "Chapter0, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 1",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay1.png,",
                 "inherit_codes": false,
-                "codes": "Chapter1, Chapter_Clears"
+                "codes": "Chapter1, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 2",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay2.png,",
                 "inherit_codes": false,
-                "codes": "Chapter2, Chapter_Clears"
+                "codes": "Chapter2, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 3",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay3.png,",
                 "inherit_codes": false,
-                "codes": "Chapter3, Chapter_Clears"
+                "codes": "Chapter3, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 4",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay4.png,",
                 "inherit_codes": false,
-                "codes": "Chapter4, Chapter_Clears"
+                "codes": "Chapter4, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 5",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay5.png,",
                 "inherit_codes": false,
-                "codes": "Chapter5, Chapter_Clears"
+                "codes": "Chapter5, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 6",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay6.png,",
                 "inherit_codes": false,
-                "codes": "Chapter6, Chapter_Clears"
+                "codes": "Chapter6, Chapter_Clears, Palace_Stars, DoorReq"
             },
             {
                 "name": "Chapter 7",
                 "img": "images/items/CrystalStar.png",
                 "img_mods": "overlay|/images/Items/Overlay7.png,",
                 "inherit_codes": false,
-                "codes": "Chapter7, Chapter_Clears"
+                "codes": "Chapter7, Chapter_Clears, Palace_Stars, DoorReq"
             }
         ]
     },
@@ -283,6 +283,31 @@
               {
                   "name": "Disable Intermission on",
                   "codes": "disableIntermissionOn, disable_intermissions",
+                  "inherit_codes": false
+              }
+          ]
+      },
+      {
+          "name": "Goal",
+          "type": "progressive",
+          "allow_disabled": false,
+          "stages":[
+              {
+                  "name": "Goal: Defeat Shadow Queen",
+                  "img": "images/items/ShadowQueen.png",
+                  "codes": "goal, defeat_shadow_queen",
+                  "inherit_codes": false
+              },
+              {
+                  "name": "Goal: Crystal Star Hunt",
+                  "img": "images/items/CrystalStar.png",
+                  "codes": "goal, crystal_star",
+                  "inherit_codes": false
+              },
+              {
+                  "name": "Goal: Defeat Bonetail",
+                  "img": "/images/tattles/Bonetail.png",
+                  "codes": "goal, defeat_bonetail",
                   "inherit_codes": false
               }
           ]

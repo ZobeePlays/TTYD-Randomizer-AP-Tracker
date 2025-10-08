@@ -63,7 +63,7 @@ function general_white()
 	end
 
 function moon()
-	return has("GoldbobGuide") and (fahr_outpost())
+	return has("Bobbery") and has("GoldbobGuide") and (fahr_outpost())
 	end
 
 function riverside()

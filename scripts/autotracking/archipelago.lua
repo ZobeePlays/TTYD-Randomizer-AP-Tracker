@@ -29,6 +29,7 @@ function onClear(slot_data)
             if location then
                 local location_obj = Tracker:FindObjectForCode(location)
                 if location_obj then
+                        location_obj.Highlight = Highlight.None
                     if location:sub(1, 1) == "@" then
                         location_obj.AvailableChestCount = location_obj.ChestCount
                     else
