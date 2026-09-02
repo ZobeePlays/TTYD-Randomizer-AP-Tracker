@@ -297,6 +297,35 @@
                         "Tattle Log"
                     ]
                 }
+            },
+            {
+                "title": "Enemy Randomizer",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "text",
+                            "dock": "top",
+                            "text": "Left click an enemy to display locations near encounters where the enemy can be found.\nRight click on any enemy to clear."
+                        },
+                        {
+                            "type": "dock",
+                            "dock": "bottom",
+                            "content": [
+                                {
+                                    "type": "layout",
+                                    "dock": "left",
+                                    "key": "enemy_rando_grid"
+                                },
+                                {
+                                    "type": "layout",
+                                    "dock": "right",
+                                    "key": "location_text_grid"
+                                }
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -596,6 +625,35 @@
                     "type": "map",
                     "maps": [
                         "Tattle Log"
+                    ]
+                }
+            },
+            {
+                "title": "Enemy Randomizer",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "text",
+                            "dock": "top",
+                            "text": "Left click an enemy to display locations near encounters where the enemy can be found.\nRight click on any enemy to clear."
+                        },
+                        {
+                            "type": "dock",
+                            "dock": "bottom",
+                            "content": [
+                                {
+                                    "type": "layout",
+                                    "dock": "left",
+                                    "key": "enemy_rando_grid"
+                                },
+                                {
+                                    "type": "layout",
+                                    "dock": "right",
+                                    "key": "location_text_grid"
+                                }
+                            ]
+                        }
                     ]
                 }
             }

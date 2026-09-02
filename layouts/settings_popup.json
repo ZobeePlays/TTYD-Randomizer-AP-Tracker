@@ -29,7 +29,8 @@
                             ],
                             [
                                 "",
-                                "",
+                                "blue_pipe_toggle",
+                                "enemy_randomizer",
                                 "HiddenOn",
                                 "GlitchedLogic",
                                 "AutoTabOn",
@@ -83,11 +84,11 @@
                         "rows": [
                             [
                                 "",
-                                "",
                                 "Discord",
                                 "Zobee",
                                 "Earth",
-                                "Pillar"
+                                "Pillar",
+                                "JRTRCT"
                             ]
                         ]
                     }

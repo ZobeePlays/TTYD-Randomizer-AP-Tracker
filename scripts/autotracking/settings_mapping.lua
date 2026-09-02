@@ -139,7 +139,7 @@ SLOT_CODES =
         [3] = "2" -- all
         }
     },
-    goal_stars =
+  goal_stars =
     {
         code = "goal_stars",
         mapping =
@@ -152,5 +152,24 @@ SLOT_CODES =
         [6] = 6, --  6 Chapters
         [7] = 7, --  7 Chapters
         }
+    },
+  blue_pipe_toggle =
+    {
+      code = "blue_pipe_toggle",
+      mapping =
+      {
+      [0] = "0", -- False
+      [1] = "1", -- True
+      }
+    },
+  enemy_randomizer =
+    {
+      code = "enemy_randomizer",
+      mapping =
+      {
+      [0] = "0", -- Vanilla
+      [1] = "1", -- Within chapter randomization
+      [2] = "2", -- Full randomization
+      }
     }
 }

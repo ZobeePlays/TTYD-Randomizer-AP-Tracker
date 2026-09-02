@@ -1,0 +1,662 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Magical Map",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "OG Map"
+                    ]
+                }
+            },
+            {
+                "title": "Rogueport",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Town"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sewers",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sewers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 1",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Petal Meadows",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Petal Meadows"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shhwonk Fortress",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shhwonk Fortress"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hooktail Castle",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hooktail Castle"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 2",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Boggly Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Boggly Woods"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Great Tree",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Great Tree"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 3",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Glitzville",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Glitzville"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Glitz Pit",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Glitz Pit"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 4",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Twilight Trail",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Twilight Trail"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Creepy Steeple",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Creepy Steeple"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 5",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Keelhaul Key",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Keelhaul Key"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pirate's Grotto",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Pirate's Grotto"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 6",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Excess Express",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Excess Express"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Riverside Station",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Riverside Station"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Poshley Heights",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Poshley Heights"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 7",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Fahr Outpost",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Fahr Outpost"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Moon",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Moon"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "X-Naut Fortress",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "X-Naut Fortress"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 8",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Palace of Shadow",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Left",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Pos Left"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Riddle Tower",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Riddle Tower"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Right",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Pos Right"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Tattle Log",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tattle Log"
+                    ]
+                }
+            },
+            {
+                "title": "Enemy Randomizer",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "text",
+                            "dock": "top",
+                            "text": "Left click an enemy to display locations near encounters where the enemy can be found.\nRight click on any enemy to clear."
+                        },
+                        {
+                            "type": "dock",
+                            "dock": "bottom",
+                            "content": [
+                                {
+                                    "type": "layout",
+                                    "dock": "left",
+                                    "key": "enemy_rando_grid_small"
+                                },
+                                {
+                                    "type": "layout",
+                                    "dock": "right",
+                                    "key": "location_text_grid_small"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Magical Map",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "HD Map"
+                    ]
+                }
+            },
+            {
+                "title": "Rogueport",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Town"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sewers",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sewers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 1",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Petal Meadows",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Petal Meadows"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shhwonk Fortress",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shhwonk Fortress"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hooktail Castle",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hooktail Castle"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 2",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Boggly Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Boggly Woods"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Great Tree",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Great Tree"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 3",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Glitzville",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Glitzville"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Glitz Pit",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Glitz Pit"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 4",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Twilight Trail",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Twilight Trail"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Creepy Steeple",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Creepy Steeple"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 5",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Keelhaul Key",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Keelhaul Key"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pirate's Grotto",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Pirate's Grotto"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 6",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Excess Express",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Excess Express"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Riverside Station",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Riverside Station"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Poshley Heights",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Poshley Heights"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 7",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Fahr Outpost",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Fahr Outpost"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Moon",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Moon"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "X-Naut Fortress",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "X-Naut Fortress"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chapter 8",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Palace of Shadow",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Left",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Pos Left"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Riddle Tower",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Riddle Tower"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Right",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Pos Right"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Tattle Log",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tattle Log"
+                    ]
+                }
+            },
+            {
+                "title": "Enemy Randomizer",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "text",
+                            "dock": "top",
+                            "text": "Left click an enemy to display locations near encounters where the enemy can be found.\nRight click on any enemy to clear."
+                        },
+                        {
+                            "type": "dock",
+                            "dock": "bottom",
+                            "content": [
+                                {
+                                    "type": "layout",
+                                    "dock": "left",
+                                    "key": "enemy_rando_grid_small"
+                                },
+                                {
+                                    "type": "layout",
+                                    "dock": "right",
+                                    "key": "location_text_grid_small"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

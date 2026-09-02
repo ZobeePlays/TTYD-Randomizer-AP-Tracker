@@ -4,6 +4,7 @@ Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/badges.json")
 Tracker:AddItems("items/locationobjects.json")
 Tracker:AddItems("items/settings.json")
+ScriptHost:LoadScript("scripts/items/enemy_items.lua")
 
 -- Logic
 ScriptHost:LoadScript("scripts/utils.lua")

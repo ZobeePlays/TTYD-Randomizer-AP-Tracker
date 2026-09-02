@@ -17,6 +17,16 @@ function can_reach(location_code)
     end
 end
 
+function get_access_level(location_code)
+    local location = Tracker:FindObjectForCode(location_code)
+    if location then
+        return location.AccessibilityLevel
+    else
+        print(location_code .. " not found")
+        return AccessibilityLevel.None
+    end
+end
+
 function toggle_item(code)
     local active = Tracker:FindObjectForCode(code).Active
     code = code

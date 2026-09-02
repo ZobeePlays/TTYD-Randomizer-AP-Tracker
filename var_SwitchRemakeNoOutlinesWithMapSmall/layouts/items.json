@@ -1,0 +1,131 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "DiamondStar",
+                                "EmeraldStar",
+                                "GoldStar",
+                                "RubyStar",
+                                "SapphireStar",
+                                "GarnetStar",
+                                "CrystalStar"
+                            ],
+                            [
+                                "Goombella",
+                                "Koops",
+                                "Flurrie",
+                                "Yoshi",
+                                "Vivian",
+                                "Bobbery",
+                                "Mowz"
+                            ],
+                            [
+                                "Bootss",
+                                "Hammers",
+                                "StrangeSack",
+                                "PlaneCurse",
+                                "PaperCurse",
+                                "TubeCurse",
+                                "BoatCurse"
+                            ],
+                            [
+                                "ContactLens",
+                                "BlimpTicket",
+                                "OldLetter",
+                                "TrainTicket",
+                                "GoldbobGuide",
+                                "StarPiece",
+                                "ShineSprite"
+                            ],
+                            [
+                                "f"
+                            ],
+                            [
+                                "BlackKey1",
+                                "SunStone",
+                                "MoonStone",
+                                "CastleKey",
+                                "BlackKey2"
+                            ],
+                            [
+                                "Necklace",
+                                "RedKey",
+                                "PuniOrb",
+                                "BlueKey",
+                                "f",
+                                "StorageKey1",
+                                "StorageKey2"
+                            ],
+                            [
+                                "ShopKey",
+                                "BlackKey3",
+                                "SteepleKey1",
+                                "Superbombomb",
+                                "TheLetterP"
+                            ],
+                            [
+                                "ChuckolaCola",
+                                "Coconut",
+                                "SkullGem",
+                                "GrottoKey",
+                                "BlackKey4",
+                                "GateHandle",
+                                "WeddingRing"
+                            ],
+                            [
+                                "Autograph",
+                                "RaggedDiary",
+                                "Blanket",
+                                "VitalPaper",
+                                "StationKey1",
+                                "StationKey2",
+                                "ElevatorKey"
+                            ],
+                            [
+                                "GalleyPot",
+                                "Briefcase",
+                                "GoldRing",
+                                "ShellEarrings"
+                            ],
+                            [
+                                "CardKey1",
+                                "CardKey2",
+                                "CardKey3",
+                                "CardKey4",
+                                "ElevatorKey1",
+                                "ElevatorKey2",
+                                "Cog"
+                            ],
+                            [
+                                "PalaceKey",
+                                "StarKey",
+                                "PalaceKey(RiddleTower)",
+                                "F",
+                                "F",
+                                "Cookbook",
+                                "UpArrow"
+                            ]
+						]
+					}
+				]
+			}
+		]
+	}
+}

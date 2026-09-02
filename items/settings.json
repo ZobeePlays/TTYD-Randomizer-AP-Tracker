@@ -1,5 +1,5 @@
 [
-  {
+    {
         "name": "Hidden Items",
         "type": "toggle",
         "img": "images/items/BadgePointPM2.png",
@@ -104,6 +104,12 @@
         "type": "static",
         "img": "images/items/Pillar.png",
         "codes": "Pillar"
+    },
+    {
+        "name": "JRTRCT on Discord!",
+        "type": "static",
+        "img": "images/items/JRTRCT.png",
+        "codes": "JRTRCT"
     },
     {
         "name": "https://discord.gg/zar9H8vfya",
@@ -255,8 +261,8 @@
     {
         "name": "Tattlesanity",
         "type": "progressive",
-        "allow_disabled":false,
-        "stages":[
+        "allow_disabled": false,
+        "stages": [
             {
                 "name": "Tattlesanity off",
                 "img": "images/items/PeekabooDim.png",
@@ -272,98 +278,144 @@
         ]
     },
     {
-          "name": "Disable Intermission",
-          "type": "progressive",
-          "allow_disabled": false,
-          "stages":[
-              {
-                  "name": "Disable Intermission off",
-                  "img": "images/items/DisableIntermissionOff.png",
-                  "codes": "disableIntermissionOff, disable_intermissions",
-                  "inherit_codes": false
-              },
-              {
-                  "name": "Disable Intermission on",
-                  "img": "images/items/DisableIntermissionOn.png",
-                  "codes": "disableIntermissionOn, disable_intermissions",
-                  "inherit_codes": false
-              }
-          ]
-      },
-      {
-          "name": "Goal",
-          "type": "progressive",
-          "allow_disabled": false,
-          "stages":[
-              {
-                  "name": "Goal: Defeat Shadow Queen",
-                  "img": "images/items/ShadowQueen.png",
-                  "codes": "goal, defeat_shadow_queen",
-                  "inherit_codes": false
-              },
-              {
-                  "name": "Goal: Crystal Star Hunt",
-                  "img": "images/items/CrystalStar.png",
-                  "codes": "goal, crystal_star",
-                  "inherit_codes": false
-              },
-              {
-                  "name": "Goal: Defeat Bonetail",
-                  "img": "/images/tattles/Bonetail.png",
-                  "codes": "goal, defeat_bonetail",
-                  "inherit_codes": false
-              }
-          ]
-      },
-      {
-          "name": "Piecesanity",
-          "type": "progressive",
-          "allow_disabled": false,
-          "stages":[
-              {
-                  "name": "Vanilla: No Star Pieces Randomized",
-                  "img": "/images/items/StarPieceOpen.png",
-                  "codes": "piecesanity, piecesanity_vanilla",
-                  "inherit_codes": false
-              },
-              {
-                  "name": "Non-Panel: Non-Panel Pieces Randomized",
-                  "img": "/images/items/StarPieceClosed.png",
-                  "codes": "piecesanity, piecesanity_no_panel",
-                  "inherit_codes": false
-              },
-              {
-                  "name": "All: All Star Pieces Randomized",
-                  "img": "/images/items/StarPiecePanel.png",
-                  "codes": "piecesanity, piecesanity_full, piecesanity_no_panel",
-                  "inherit_codes": false
-              }
-          ]
-      },
-      {
+        "name": "Disable Intermission",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Disable Intermission off",
+                "img": "images/items/DisableIntermissionOff.png",
+                "codes": "disableIntermissionOff, disable_intermissions",
+                "inherit_codes": false
+            },
+            {
+                "name": "Disable Intermission on",
+                "img": "images/items/DisableIntermissionOn.png",
+                "codes": "disableIntermissionOn, disable_intermissions",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Goal: Defeat Shadow Queen",
+                "img": "images/items/ShadowQueen.png",
+                "codes": "goal, defeat_shadow_queen",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Crystal Star Hunt",
+                "img": "images/items/CrystalStar.png",
+                "codes": "goal, crystal_star",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Defeat Bonetail",
+                "img": "/images/tattles/Bonetail.png",
+                "codes": "goal, defeat_bonetail",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Piecesanity",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Vanilla: No Star Pieces Randomized",
+                "img": "/images/items/StarPieceOpen.png",
+                "codes": "piecesanity, piecesanity_vanilla",
+                "inherit_codes": false
+            },
+            {
+                "name": "Non-Panel: Non-Panel Pieces Randomized",
+                "img": "/images/items/StarPieceClosed.png",
+                "codes": "piecesanity, piecesanity_no_panel",
+                "inherit_codes": false
+            },
+            {
+                "name": "All: All Star Pieces Randomized",
+                "img": "/images/items/StarPiecePanel.png",
+                "codes": "piecesanity, piecesanity_full, piecesanity_no_panel",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
         "name": "Dazzle Rewards",
         "type": "progressive",
         "allow_disabled": false,
         "initial_stage_idx": 3,
         "stages": [
-          {
-              "name": "Dazzle Rewards Vanilla",
-              "img": "/images/items/Dazzle_Vanilla.png",
-              "codes": "dazzle_vanilla, dazzle_rewards",
-              "inherit_codes": false
-          },
-          {
-              "name": "Dazzle Rewards Filler",
-              "img": "/images/items/Dazzle_Filler.png",
-              "codes": "dazzle_filler, dazzle_rewards",
-              "inherit_codes": false
-          },
-          {
-              "name": "Dazzle Rewards All Random",
-              "img": "/images/items/Dazzle.png",
-              "codes": "dazzle_all, dazzle_rewards",
-              "inherit_codes": false
-          }
+            {
+                "name": "Dazzle Rewards Vanilla",
+                "img": "/images/items/Dazzle_Vanilla.png",
+                "codes": "dazzle_vanilla, dazzle_rewards",
+                "inherit_codes": false
+            },
+            {
+                "name": "Dazzle Rewards Filler",
+                "img": "/images/items/Dazzle_Filler.png",
+                "codes": "dazzle_filler, dazzle_rewards",
+                "inherit_codes": false
+            },
+            {
+                "name": "Dazzle Rewards All Random",
+                "img": "/images/items/Dazzle.png",
+                "codes": "dazzle_all, dazzle_rewards",
+                "inherit_codes": false
+            }
         ]
-      }
+    },
+    {
+        "name": "Blue Pipe Toggle",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 1,
+        "stages": [
+            {
+                "name": "Blue Pipes Disabled",
+                "img": "images/items/BluePipeDim.png",
+                "codes": "pipe_off, blue_pipe_toggle",
+                "inherit_codes": false
+            },
+            {
+                "name": "Blue Pipes Enabled",
+                "img": "images/items/BluePipe.png",
+                "codes": "pipe_on, blue_pipe_toggle",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Enemy Randomizer",
+        "type": "progressive",
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "Enemy Randomizer Disabled",
+                "img": "images/items/YBlockOpen.png",
+                "codes": "enemy_vanilla, enemy_randomizer",
+                "inherit_codes": false
+            },
+            {
+                "name": "Enemy Randomizer Enabled (Within Chapter Only)",
+                "img": "images/items/YBlock.png",
+                "codes": "enemy_random, enemy_randomizer",
+                "inherit_codes": false
+            },
+            {
+                "name": "Enemy Randomizer Enabled (All Enemies)",
+                "img": "images/items/RBlock.png",
+                "codes": "enemy_random, enemy_randomizer",
+                "inherit_codes": false
+            }
+        ]
+    }
 ]

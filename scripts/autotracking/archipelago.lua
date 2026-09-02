@@ -6,6 +6,10 @@ ScriptHost:LoadScript("scripts/autotracking/settings_mapping.lua")
 
 CUR_INDEX = -1
 
+ENEMY_DICT = {}
+
+
+
 if Highlight then
     highlight_lvl = {
         [0] = Highlight.Unspecified,
@@ -77,6 +81,82 @@ function onClear(slot_data)
             end
         end
     end
+
+    -- Apply enemy logic settings if necessary
+    local enemy_rando_obj = Tracker:FindObjectForCode("enemy_randomizer")
+    local tattlesanity_obj = Tracker:FindObjectForCode("tattlesanity")
+    ENEMY_DICT = slot_data["tattle_rules"]
+    if not ENEMY_DICT then
+        enemy_rando_obj.CurrentStage = "0"
+        print("Empty enemy dict")
+    end
+
+    if has("enemy_random") then
+        for name, ids in pairs(ENEMY_DICT) do
+            name = string.sub(name, 9)
+            if name == "Iron Cleft" then
+                name = "Iron Clefts"
+            end
+            if name == "Vivian" then
+                name = "Vivian_Item"
+            end
+            local code = string.gsub(name, " ", "_")
+            local enemy_obj = Tracker:FindObjectForCode(code)
+            if not enemy_obj then
+                print("Could not find " .. name)
+            else
+                local location_text = name .. " is near:"
+                local enemy_location_set = {}
+                if ids then
+                    for _, id in pairs(ids) do
+                        local location_array = LOCATION_MAPPING[id]
+                        if not location_array then
+                            print("location ID " .. tostring(id) .. " not found in location mapping")
+                        else
+                            for _, location_code in pairs(location_array) do
+                                --[[
+                                local location_name = location_code
+                                for str in string.gmatch(location_code, "([^/]+)") do
+                                    location_name = str
+                                end
+                                --]]
+                                if not enemy_location_set[location_code] then
+                                    location_text = location_text .. "\n" .. location_code
+                                end
+                                enemy_location_set[location_code] = true
+                            end
+                        end
+                    end
+                else
+                    print("location ids not found")
+                end
+                local enemy_location_table = {}
+                local idx = 1
+                for location_name, _ in pairs(enemy_location_set) do
+                    enemy_location_table[idx] = location_name
+                    idx = idx + 1
+                end
+                table.sort(enemy_location_table)
+                enemy_obj.ItemState.EnemyLocations = enemy_location_table
+                -- print(location_text)
+            end
+        end
+    else
+        for name, ids in pairs(ENEMY_DICT) do
+            name = string.sub(name, 9)
+            if name == "Iron Cleft" then
+                name = "Iron Clefts"
+            end
+            if name == "Vivian" then
+                name = "Vivian_Item"
+            end
+            local code = string.gsub(name, " ", "_")
+            local enemy_obj = Tracker:FindObjectForCode(code)
+            enemy_obj.ItemState.EnemyLocations = {}
+        end    
+    end
+
+    ClearText(nil)
 
     -- Map Datastorage
     if Archipelago.PlayerNumber > -1 then
@@ -166,27 +246,31 @@ function onMapChange(key, value, old)
     local currentObject = currentCode and Tracker:FindObjectForCode(currentCode)
     local newObject
 
+    if newCode == nil then
+        return
+    end
+
     if key == cur_room then
-    if key ~= nil then
-        newObject = Tracker:FindObjectForCode(newCode)
+        if key ~= nil then
+            newObject = Tracker:FindObjectForCode(newCode)
 
 
-        if currentObject and currentObject.Active then
-            currentObject.Active = false
-        end
-        
-        if has("PlayerTrackOn") then
-            if newObject then
-                newObject.Active = true
+            if currentObject and currentObject.Active then
+                currentObject.Active = false
             end
 
-            currentCode = newCode
-        end
+            if has("PlayerTrackOn") then
+                if newObject then
+                    newObject.Active = true
+                end
 
-        if has("AutoTabOn") then
-            tabs = MAP_MAPPING[tostring(value)]
-            for i, tab in ipairs(tabs) do
-                Tracker:UiHint("ActivateTab", tab)
+                currentCode = newCode
+            end
+
+            if has("AutoTabOn") then
+                tabs = MAP_MAPPING[tostring(value)]
+                for i, tab in ipairs(tabs) do
+                    Tracker:UiHint("ActivateTab", tab)
                 end
             end
         end
