@@ -74,7 +74,7 @@ function onClear(slot_data)
     -- Apply settings from SLOT_CODES
     for key, value in pairs(SLOT_CODES) do
         local setting_value = slot_data[key]
-        if setting_value ~= nil then
+        if setting_value ~= nil and value.mapping and value.mapping[setting_value] ~= nil then
             item_obj = Tracker:FindObjectForCode(value.code)
             if item_obj then
                 item_obj.CurrentStage = value.mapping[setting_value]
@@ -251,8 +251,8 @@ function onMapChange(key, value, old)
     end
 
     if key == cur_room then
-        if key ~= nil then
-            newObject = Tracker:FindObjectForCode(newCode)
+    if key ~= nil and newCode ~= nil then
+        newObject = Tracker:FindObjectForCode(newCode)
 
 
             if currentObject and currentObject.Active then
